@@ -1,0 +1,3656 @@
+date,product,sales
+2023-01-01,Paracetamol,3965
+2023-01-01,Cough Syrup,3269
+2023-01-01,Vitamins,2803
+2023-01-01,Antibiotics,3958
+2023-01-01,Pain Relief Gel,2797
+2023-01-02,Paracetamol,4683
+2023-01-02,Cough Syrup,4035
+2023-01-02,Vitamins,3110
+2023-01-02,Antibiotics,5062
+2023-01-02,Pain Relief Gel,3432
+2023-01-03,Paracetamol,4617
+2023-01-03,Cough Syrup,3986
+2023-01-03,Vitamins,3084
+2023-01-03,Antibiotics,4847
+2023-01-03,Pain Relief Gel,3337
+2023-01-04,Paracetamol,4532
+2023-01-04,Cough Syrup,4080
+2023-01-04,Vitamins,3050
+2023-01-04,Antibiotics,5235
+2023-01-04,Pain Relief Gel,3239
+2023-01-05,Paracetamol,4467
+2023-01-05,Cough Syrup,3727
+2023-01-05,Vitamins,3214
+2023-01-05,Antibiotics,4970
+2023-01-05,Pain Relief Gel,3328
+2023-01-06,Paracetamol,4536
+2023-01-06,Cough Syrup,4108
+2023-01-06,Vitamins,3359
+2023-01-06,Antibiotics,5024
+2023-01-06,Pain Relief Gel,3442
+2023-01-07,Paracetamol,3821
+2023-01-07,Cough Syrup,3578
+2023-01-07,Vitamins,2639
+2023-01-07,Antibiotics,4406
+2023-01-07,Pain Relief Gel,2957
+2023-01-08,Paracetamol,3996
+2023-01-08,Cough Syrup,3517
+2023-01-08,Vitamins,2656
+2023-01-08,Antibiotics,4751
+2023-01-08,Pain Relief Gel,2863
+2023-01-09,Paracetamol,4656
+2023-01-09,Cough Syrup,4233
+2023-01-09,Vitamins,3429
+2023-01-09,Antibiotics,4892
+2023-01-09,Pain Relief Gel,3599
+2023-01-10,Paracetamol,4400
+2023-01-10,Cough Syrup,4246
+2023-01-10,Vitamins,3347
+2023-01-10,Antibiotics,5286
+2023-01-10,Pain Relief Gel,3575
+2023-01-11,Paracetamol,4989
+2023-01-11,Cough Syrup,4208
+2023-01-11,Vitamins,3062
+2023-01-11,Antibiotics,5247
+2023-01-11,Pain Relief Gel,3415
+2023-01-12,Paracetamol,4566
+2023-01-12,Cough Syrup,3951
+2023-01-12,Vitamins,3276
+2023-01-12,Antibiotics,4926
+2023-01-12,Pain Relief Gel,3605
+2023-01-13,Paracetamol,5033
+2023-01-13,Cough Syrup,3956
+2023-01-13,Vitamins,3128
+2023-01-13,Antibiotics,5322
+2023-01-13,Pain Relief Gel,3692
+2023-01-14,Paracetamol,4055
+2023-01-14,Cough Syrup,3452
+2023-01-14,Vitamins,2752
+2023-01-14,Antibiotics,4384
+2023-01-14,Pain Relief Gel,3195
+2023-01-15,Paracetamol,4170
+2023-01-15,Cough Syrup,3452
+2023-01-15,Vitamins,2813
+2023-01-15,Antibiotics,4551
+2023-01-15,Pain Relief Gel,3001
+2023-01-16,Paracetamol,4452
+2023-01-16,Cough Syrup,4234
+2023-01-16,Vitamins,3331
+2023-01-16,Antibiotics,5034
+2023-01-16,Pain Relief Gel,3515
+2023-01-17,Paracetamol,4690
+2023-01-17,Cough Syrup,4361
+2023-01-17,Vitamins,3296
+2023-01-17,Antibiotics,5078
+2023-01-17,Pain Relief Gel,3490
+2023-01-18,Paracetamol,4443
+2023-01-18,Cough Syrup,4232
+2023-01-18,Vitamins,3233
+2023-01-18,Antibiotics,5425
+2023-01-18,Pain Relief Gel,3499
+2023-01-19,Paracetamol,4922
+2023-01-19,Cough Syrup,4167
+2023-01-19,Vitamins,3369
+2023-01-19,Antibiotics,5140
+2023-01-19,Pain Relief Gel,3711
+2023-01-20,Paracetamol,4863
+2023-01-20,Cough Syrup,4207
+2023-01-20,Vitamins,3255
+2023-01-20,Antibiotics,5328
+2023-01-20,Pain Relief Gel,3515
+2023-01-21,Paracetamol,4090
+2023-01-21,Cough Syrup,3654
+2023-01-21,Vitamins,2777
+2023-01-21,Antibiotics,4643
+2023-01-21,Pain Relief Gel,3303
+2023-01-22,Paracetamol,4398
+2023-01-22,Cough Syrup,3935
+2023-01-22,Vitamins,2945
+2023-01-22,Antibiotics,4464
+2023-01-22,Pain Relief Gel,3083
+2023-01-23,Paracetamol,4791
+2023-01-23,Cough Syrup,4549
+2023-01-23,Vitamins,3229
+2023-01-23,Antibiotics,5511
+2023-01-23,Pain Relief Gel,3661
+2023-01-24,Paracetamol,5056
+2023-01-24,Cough Syrup,4059
+2023-01-24,Vitamins,3235
+2023-01-24,Antibiotics,5409
+2023-01-24,Pain Relief Gel,3606
+2023-01-25,Paracetamol,4560
+2023-01-25,Cough Syrup,4321
+2023-01-25,Vitamins,3454
+2023-01-25,Antibiotics,4738
+2023-01-25,Pain Relief Gel,3775
+2023-01-26,Paracetamol,4932
+2023-01-26,Cough Syrup,4494
+2023-01-26,Vitamins,3453
+2023-01-26,Antibiotics,5546
+2023-01-26,Pain Relief Gel,3450
+2023-01-27,Paracetamol,5010
+2023-01-27,Cough Syrup,4378
+2023-01-27,Vitamins,3469
+2023-01-27,Antibiotics,5489
+2023-01-27,Pain Relief Gel,3928
+2023-01-28,Paracetamol,4028
+2023-01-28,Cough Syrup,3973
+2023-01-28,Vitamins,2921
+2023-01-28,Antibiotics,4809
+2023-01-28,Pain Relief Gel,3269
+2023-01-29,Paracetamol,3798
+2023-01-29,Cough Syrup,3638
+2023-01-29,Vitamins,3071
+2023-01-29,Antibiotics,5173
+2023-01-29,Pain Relief Gel,3177
+2023-01-30,Paracetamol,4827
+2023-01-30,Cough Syrup,4324
+2023-01-30,Vitamins,3218
+2023-01-30,Antibiotics,5714
+2023-01-30,Pain Relief Gel,3615
+2023-01-31,Paracetamol,5333
+2023-01-31,Cough Syrup,4443
+2023-01-31,Vitamins,3589
+2023-01-31,Antibiotics,5714
+2023-01-31,Pain Relief Gel,3754
+2023-02-01,Paracetamol,5236
+2023-02-01,Cough Syrup,4788
+2023-02-01,Vitamins,3405
+2023-02-01,Antibiotics,5867
+2023-02-01,Pain Relief Gel,3967
+2023-02-02,Paracetamol,5426
+2023-02-02,Cough Syrup,4517
+2023-02-02,Vitamins,3668
+2023-02-02,Antibiotics,5378
+2023-02-02,Pain Relief Gel,3918
+2023-02-03,Paracetamol,4999
+2023-02-03,Cough Syrup,4318
+2023-02-03,Vitamins,3421
+2023-02-03,Antibiotics,5989
+2023-02-03,Pain Relief Gel,3795
+2023-02-04,Paracetamol,4524
+2023-02-04,Cough Syrup,3609
+2023-02-04,Vitamins,2977
+2023-02-04,Antibiotics,4815
+2023-02-04,Pain Relief Gel,3286
+2023-02-05,Paracetamol,4479
+2023-02-05,Cough Syrup,3825
+2023-02-05,Vitamins,3167
+2023-02-05,Antibiotics,4887
+2023-02-05,Pain Relief Gel,3374
+2023-02-06,Paracetamol,4668
+2023-02-06,Cough Syrup,4389
+2023-02-06,Vitamins,3750
+2023-02-06,Antibiotics,5809
+2023-02-06,Pain Relief Gel,3834
+2023-02-07,Paracetamol,4727
+2023-02-07,Cough Syrup,4608
+2023-02-07,Vitamins,3841
+2023-02-07,Antibiotics,5591
+2023-02-07,Pain Relief Gel,4118
+2023-02-08,Paracetamol,4988
+2023-02-08,Cough Syrup,4670
+2023-02-08,Vitamins,3664
+2023-02-08,Antibiotics,6055
+2023-02-08,Pain Relief Gel,3817
+2023-02-09,Paracetamol,5204
+2023-02-09,Cough Syrup,4401
+2023-02-09,Vitamins,3762
+2023-02-09,Antibiotics,5414
+2023-02-09,Pain Relief Gel,3861
+2023-02-10,Paracetamol,5064
+2023-02-10,Cough Syrup,4698
+2023-02-10,Vitamins,3625
+2023-02-10,Antibiotics,5638
+2023-02-10,Pain Relief Gel,4051
+2023-02-11,Paracetamol,4645
+2023-02-11,Cough Syrup,4065
+2023-02-11,Vitamins,3096
+2023-02-11,Antibiotics,5231
+2023-02-11,Pain Relief Gel,3364
+2023-02-12,Paracetamol,4480
+2023-02-12,Cough Syrup,3946
+2023-02-12,Vitamins,3271
+2023-02-12,Antibiotics,5118
+2023-02-12,Pain Relief Gel,3352
+2023-02-13,Paracetamol,5009
+2023-02-13,Cough Syrup,4320
+2023-02-13,Vitamins,3672
+2023-02-13,Antibiotics,5938
+2023-02-13,Pain Relief Gel,4120
+2023-02-14,Paracetamol,5346
+2023-02-14,Cough Syrup,4487
+2023-02-14,Vitamins,3510
+2023-02-14,Antibiotics,5863
+2023-02-14,Pain Relief Gel,3830
+2023-02-15,Paracetamol,5216
+2023-02-15,Cough Syrup,4374
+2023-02-15,Vitamins,3738
+2023-02-15,Antibiotics,5469
+2023-02-15,Pain Relief Gel,4128
+2023-02-16,Paracetamol,5253
+2023-02-16,Cough Syrup,4655
+2023-02-16,Vitamins,3780
+2023-02-16,Antibiotics,6138
+2023-02-16,Pain Relief Gel,4072
+2023-02-17,Paracetamol,5034
+2023-02-17,Cough Syrup,4481
+2023-02-17,Vitamins,3514
+2023-02-17,Antibiotics,5976
+2023-02-17,Pain Relief Gel,4213
+2023-02-18,Paracetamol,4521
+2023-02-18,Cough Syrup,4026
+2023-02-18,Vitamins,3120
+2023-02-18,Antibiotics,5237
+2023-02-18,Pain Relief Gel,3333
+2023-02-19,Paracetamol,4686
+2023-02-19,Cough Syrup,3809
+2023-02-19,Vitamins,2999
+2023-02-19,Antibiotics,5206
+2023-02-19,Pain Relief Gel,3518
+2023-02-20,Paracetamol,5615
+2023-02-20,Cough Syrup,4570
+2023-02-20,Vitamins,3637
+2023-02-20,Antibiotics,5908
+2023-02-20,Pain Relief Gel,4113
+2023-02-21,Paracetamol,5078
+2023-02-21,Cough Syrup,4909
+2023-02-21,Vitamins,3759
+2023-02-21,Antibiotics,5854
+2023-02-21,Pain Relief Gel,3704
+2023-02-22,Paracetamol,5421
+2023-02-22,Cough Syrup,4513
+2023-02-22,Vitamins,3774
+2023-02-22,Antibiotics,6323
+2023-02-22,Pain Relief Gel,4187
+2023-02-23,Paracetamol,5643
+2023-02-23,Cough Syrup,4655
+2023-02-23,Vitamins,3577
+2023-02-23,Antibiotics,5946
+2023-02-23,Pain Relief Gel,4211
+2023-02-24,Paracetamol,5098
+2023-02-24,Cough Syrup,4651
+2023-02-24,Vitamins,3528
+2023-02-24,Antibiotics,6138
+2023-02-24,Pain Relief Gel,4248
+2023-02-25,Paracetamol,4905
+2023-02-25,Cough Syrup,4079
+2023-02-25,Vitamins,3213
+2023-02-25,Antibiotics,5254
+2023-02-25,Pain Relief Gel,3747
+2023-02-26,Paracetamol,4890
+2023-02-26,Cough Syrup,4452
+2023-02-26,Vitamins,3217
+2023-02-26,Antibiotics,5162
+2023-02-26,Pain Relief Gel,3108
+2023-02-27,Paracetamol,6004
+2023-02-27,Cough Syrup,4809
+2023-02-27,Vitamins,4057
+2023-02-27,Antibiotics,6078
+2023-02-27,Pain Relief Gel,4251
+2023-02-28,Paracetamol,5804
+2023-02-28,Cough Syrup,4676
+2023-02-28,Vitamins,3956
+2023-02-28,Antibiotics,6323
+2023-02-28,Pain Relief Gel,4214
+2023-03-01,Paracetamol,5393
+2023-03-01,Cough Syrup,4775
+2023-03-01,Vitamins,4135
+2023-03-01,Antibiotics,5992
+2023-03-01,Pain Relief Gel,4127
+2023-03-02,Paracetamol,5397
+2023-03-02,Cough Syrup,4895
+2023-03-02,Vitamins,3748
+2023-03-02,Antibiotics,6252
+2023-03-02,Pain Relief Gel,4258
+2023-03-03,Paracetamol,5479
+2023-03-03,Cough Syrup,4667
+2023-03-03,Vitamins,3921
+2023-03-03,Antibiotics,5976
+2023-03-03,Pain Relief Gel,4125
+2023-03-04,Paracetamol,4900
+2023-03-04,Cough Syrup,4176
+2023-03-04,Vitamins,3439
+2023-03-04,Antibiotics,5823
+2023-03-04,Pain Relief Gel,3495
+2023-03-05,Paracetamol,4422
+2023-03-05,Cough Syrup,3936
+2023-03-05,Vitamins,3328
+2023-03-05,Antibiotics,5387
+2023-03-05,Pain Relief Gel,3736
+2023-03-06,Paracetamol,5800
+2023-03-06,Cough Syrup,4967
+2023-03-06,Vitamins,3952
+2023-03-06,Antibiotics,6273
+2023-03-06,Pain Relief Gel,4261
+2023-03-07,Paracetamol,5365
+2023-03-07,Cough Syrup,4786
+2023-03-07,Vitamins,4022
+2023-03-07,Antibiotics,6444
+2023-03-07,Pain Relief Gel,4182
+2023-03-08,Paracetamol,5431
+2023-03-08,Cough Syrup,5047
+2023-03-08,Vitamins,4020
+2023-03-08,Antibiotics,6339
+2023-03-08,Pain Relief Gel,4234
+2023-03-09,Paracetamol,5500
+2023-03-09,Cough Syrup,4805
+2023-03-09,Vitamins,3898
+2023-03-09,Antibiotics,6180
+2023-03-09,Pain Relief Gel,4388
+2023-03-10,Paracetamol,5709
+2023-03-10,Cough Syrup,4956
+2023-03-10,Vitamins,4119
+2023-03-10,Antibiotics,6330
+2023-03-10,Pain Relief Gel,4089
+2023-03-11,Paracetamol,4904
+2023-03-11,Cough Syrup,4309
+2023-03-11,Vitamins,3495
+2023-03-11,Antibiotics,5308
+2023-03-11,Pain Relief Gel,3570
+2023-03-12,Paracetamol,4773
+2023-03-12,Cough Syrup,4464
+2023-03-12,Vitamins,3607
+2023-03-12,Antibiotics,5702
+2023-03-12,Pain Relief Gel,3800
+2023-03-13,Paracetamol,6064
+2023-03-13,Cough Syrup,5020
+2023-03-13,Vitamins,3972
+2023-03-13,Antibiotics,6306
+2023-03-13,Pain Relief Gel,4303
+2023-03-14,Paracetamol,5151
+2023-03-14,Cough Syrup,5124
+2023-03-14,Vitamins,3828
+2023-03-14,Antibiotics,6657
+2023-03-14,Pain Relief Gel,4282
+2023-03-15,Paracetamol,5564
+2023-03-15,Cough Syrup,4821
+2023-03-15,Vitamins,3931
+2023-03-15,Antibiotics,6211
+2023-03-15,Pain Relief Gel,4080
+2023-03-16,Paracetamol,5525
+2023-03-16,Cough Syrup,5082
+2023-03-16,Vitamins,3990
+2023-03-16,Antibiotics,6653
+2023-03-16,Pain Relief Gel,4459
+2023-03-17,Paracetamol,5469
+2023-03-17,Cough Syrup,5182
+2023-03-17,Vitamins,4049
+2023-03-17,Antibiotics,6080
+2023-03-17,Pain Relief Gel,4395
+2023-03-18,Paracetamol,5148
+2023-03-18,Cough Syrup,3898
+2023-03-18,Vitamins,3395
+2023-03-18,Antibiotics,5762
+2023-03-18,Pain Relief Gel,3639
+2023-03-19,Paracetamol,5030
+2023-03-19,Cough Syrup,4157
+2023-03-19,Vitamins,3392
+2023-03-19,Antibiotics,5694
+2023-03-19,Pain Relief Gel,3713
+2023-03-20,Paracetamol,5954
+2023-03-20,Cough Syrup,4773
+2023-03-20,Vitamins,4053
+2023-03-20,Antibiotics,6589
+2023-03-20,Pain Relief Gel,4365
+2023-03-21,Paracetamol,5719
+2023-03-21,Cough Syrup,4795
+2023-03-21,Vitamins,4106
+2023-03-21,Antibiotics,6199
+2023-03-21,Pain Relief Gel,4429
+2023-03-22,Paracetamol,5576
+2023-03-22,Cough Syrup,5051
+2023-03-22,Vitamins,4365
+2023-03-22,Antibiotics,6362
+2023-03-22,Pain Relief Gel,4153
+2023-03-23,Paracetamol,5653
+2023-03-23,Cough Syrup,4844
+2023-03-23,Vitamins,4020
+2023-03-23,Antibiotics,6673
+2023-03-23,Pain Relief Gel,4214
+2023-03-24,Paracetamol,5772
+2023-03-24,Cough Syrup,5095
+2023-03-24,Vitamins,3951
+2023-03-24,Antibiotics,6555
+2023-03-24,Pain Relief Gel,4487
+2023-03-25,Paracetamol,5152
+2023-03-25,Cough Syrup,3872
+2023-03-25,Vitamins,3296
+2023-03-25,Antibiotics,5533
+2023-03-25,Pain Relief Gel,3569
+2023-03-26,Paracetamol,4827
+2023-03-26,Cough Syrup,4383
+2023-03-26,Vitamins,3574
+2023-03-26,Antibiotics,5710
+2023-03-26,Pain Relief Gel,3710
+2023-03-27,Paracetamol,5682
+2023-03-27,Cough Syrup,5104
+2023-03-27,Vitamins,4321
+2023-03-27,Antibiotics,6663
+2023-03-27,Pain Relief Gel,4054
+2023-03-28,Paracetamol,5599
+2023-03-28,Cough Syrup,4749
+2023-03-28,Vitamins,4143
+2023-03-28,Antibiotics,6691
+2023-03-28,Pain Relief Gel,4442
+2023-03-29,Paracetamol,6180
+2023-03-29,Cough Syrup,4671
+2023-03-29,Vitamins,4149
+2023-03-29,Antibiotics,7001
+2023-03-29,Pain Relief Gel,4188
+2023-03-30,Paracetamol,5653
+2023-03-30,Cough Syrup,5000
+2023-03-30,Vitamins,3941
+2023-03-30,Antibiotics,6746
+2023-03-30,Pain Relief Gel,4178
+2023-03-31,Paracetamol,5379
+2023-03-31,Cough Syrup,4701
+2023-03-31,Vitamins,4157
+2023-03-31,Antibiotics,6457
+2023-03-31,Pain Relief Gel,4484
+2023-04-01,Paracetamol,5186
+2023-04-01,Cough Syrup,4373
+2023-04-01,Vitamins,3785
+2023-04-01,Antibiotics,5480
+2023-04-01,Pain Relief Gel,3706
+2023-04-02,Paracetamol,5125
+2023-04-02,Cough Syrup,4405
+2023-04-02,Vitamins,3477
+2023-04-02,Antibiotics,5403
+2023-04-02,Pain Relief Gel,3846
+2023-04-03,Paracetamol,6247
+2023-04-03,Cough Syrup,5210
+2023-04-03,Vitamins,4122
+2023-04-03,Antibiotics,6700
+2023-04-03,Pain Relief Gel,4349
+2023-04-04,Paracetamol,5796
+2023-04-04,Cough Syrup,4856
+2023-04-04,Vitamins,4139
+2023-04-04,Antibiotics,5874
+2023-04-04,Pain Relief Gel,4679
+2023-04-05,Paracetamol,5703
+2023-04-05,Cough Syrup,4970
+2023-04-05,Vitamins,4443
+2023-04-05,Antibiotics,6467
+2023-04-05,Pain Relief Gel,4677
+2023-04-06,Paracetamol,5503
+2023-04-06,Cough Syrup,5038
+2023-04-06,Vitamins,4062
+2023-04-06,Antibiotics,6403
+2023-04-06,Pain Relief Gel,4208
+2023-04-07,Paracetamol,5495
+2023-04-07,Cough Syrup,5053
+2023-04-07,Vitamins,4087
+2023-04-07,Antibiotics,6445
+2023-04-07,Pain Relief Gel,4427
+2023-04-08,Paracetamol,5028
+2023-04-08,Cough Syrup,4474
+2023-04-08,Vitamins,3405
+2023-04-08,Antibiotics,5367
+2023-04-08,Pain Relief Gel,3688
+2023-04-09,Paracetamol,5066
+2023-04-09,Cough Syrup,4354
+2023-04-09,Vitamins,3402
+2023-04-09,Antibiotics,5759
+2023-04-09,Pain Relief Gel,3621
+2023-04-10,Paracetamol,6234
+2023-04-10,Cough Syrup,5156
+2023-04-10,Vitamins,4161
+2023-04-10,Antibiotics,6280
+2023-04-10,Pain Relief Gel,4336
+2023-04-11,Paracetamol,5847
+2023-04-11,Cough Syrup,5057
+2023-04-11,Vitamins,3878
+2023-04-11,Antibiotics,6221
+2023-04-11,Pain Relief Gel,4431
+2023-04-12,Paracetamol,5866
+2023-04-12,Cough Syrup,5208
+2023-04-12,Vitamins,3955
+2023-04-12,Antibiotics,6437
+2023-04-12,Pain Relief Gel,4205
+2023-04-13,Paracetamol,5783
+2023-04-13,Cough Syrup,4911
+2023-04-13,Vitamins,4209
+2023-04-13,Antibiotics,6195
+2023-04-13,Pain Relief Gel,4410
+2023-04-14,Paracetamol,5914
+2023-04-14,Cough Syrup,5384
+2023-04-14,Vitamins,3960
+2023-04-14,Antibiotics,6614
+2023-04-14,Pain Relief Gel,4438
+2023-04-15,Paracetamol,4756
+2023-04-15,Cough Syrup,4524
+2023-04-15,Vitamins,3381
+2023-04-15,Antibiotics,5247
+2023-04-15,Pain Relief Gel,3496
+2023-04-16,Paracetamol,4936
+2023-04-16,Cough Syrup,4505
+2023-04-16,Vitamins,3672
+2023-04-16,Antibiotics,5187
+2023-04-16,Pain Relief Gel,3622
+2023-04-17,Paracetamol,5805
+2023-04-17,Cough Syrup,4840
+2023-04-17,Vitamins,3877
+2023-04-17,Antibiotics,5588
+2023-04-17,Pain Relief Gel,4561
+2023-04-18,Paracetamol,5598
+2023-04-18,Cough Syrup,4837
+2023-04-18,Vitamins,3860
+2023-04-18,Antibiotics,7151
+2023-04-18,Pain Relief Gel,4244
+2023-04-19,Paracetamol,6186
+2023-04-19,Cough Syrup,4907
+2023-04-19,Vitamins,3940
+2023-04-19,Antibiotics,6443
+2023-04-19,Pain Relief Gel,4360
+2023-04-20,Paracetamol,5746
+2023-04-20,Cough Syrup,5321
+2023-04-20,Vitamins,4038
+2023-04-20,Antibiotics,6863
+2023-04-20,Pain Relief Gel,4459
+2023-04-21,Paracetamol,5579
+2023-04-21,Cough Syrup,5013
+2023-04-21,Vitamins,4001
+2023-04-21,Antibiotics,6320
+2023-04-21,Pain Relief Gel,4139
+2023-04-22,Paracetamol,4715
+2023-04-22,Cough Syrup,4324
+2023-04-22,Vitamins,3259
+2023-04-22,Antibiotics,5771
+2023-04-22,Pain Relief Gel,3639
+2023-04-23,Paracetamol,4993
+2023-04-23,Cough Syrup,4469
+2023-04-23,Vitamins,3357
+2023-04-23,Antibiotics,5400
+2023-04-23,Pain Relief Gel,3588
+2023-04-24,Paracetamol,5946
+2023-04-24,Cough Syrup,4852
+2023-04-24,Vitamins,4110
+2023-04-24,Antibiotics,6671
+2023-04-24,Pain Relief Gel,4310
+2023-04-25,Paracetamol,5810
+2023-04-25,Cough Syrup,5220
+2023-04-25,Vitamins,3860
+2023-04-25,Antibiotics,6261
+2023-04-25,Pain Relief Gel,4459
+2023-04-26,Paracetamol,5882
+2023-04-26,Cough Syrup,5440
+2023-04-26,Vitamins,4096
+2023-04-26,Antibiotics,6400
+2023-04-26,Pain Relief Gel,4078
+2023-04-27,Paracetamol,5805
+2023-04-27,Cough Syrup,5049
+2023-04-27,Vitamins,4147
+2023-04-27,Antibiotics,6793
+2023-04-27,Pain Relief Gel,4234
+2023-04-28,Paracetamol,6088
+2023-04-28,Cough Syrup,5371
+2023-04-28,Vitamins,3912
+2023-04-28,Antibiotics,6299
+2023-04-28,Pain Relief Gel,4472
+2023-04-29,Paracetamol,4927
+2023-04-29,Cough Syrup,4185
+2023-04-29,Vitamins,3353
+2023-04-29,Antibiotics,5432
+2023-04-29,Pain Relief Gel,3805
+2023-04-30,Paracetamol,4950
+2023-04-30,Cough Syrup,4323
+2023-04-30,Vitamins,3234
+2023-04-30,Antibiotics,5343
+2023-04-30,Pain Relief Gel,3585
+2023-05-01,Paracetamol,5645
+2023-05-01,Cough Syrup,5252
+2023-05-01,Vitamins,3928
+2023-05-01,Antibiotics,6518
+2023-05-01,Pain Relief Gel,4282
+2023-05-02,Paracetamol,5272
+2023-05-02,Cough Syrup,5367
+2023-05-02,Vitamins,3735
+2023-05-02,Antibiotics,6126
+2023-05-02,Pain Relief Gel,4293
+2023-05-03,Paracetamol,5466
+2023-05-03,Cough Syrup,4874
+2023-05-03,Vitamins,3853
+2023-05-03,Antibiotics,6587
+2023-05-03,Pain Relief Gel,4359
+2023-05-04,Paracetamol,5643
+2023-05-04,Cough Syrup,4659
+2023-05-04,Vitamins,3710
+2023-05-04,Antibiotics,6649
+2023-05-04,Pain Relief Gel,4251
+2023-05-05,Paracetamol,5456
+2023-05-05,Cough Syrup,4972
+2023-05-05,Vitamins,4064
+2023-05-05,Antibiotics,6726
+2023-05-05,Pain Relief Gel,4398
+2023-05-06,Paracetamol,4725
+2023-05-06,Cough Syrup,4357
+2023-05-06,Vitamins,3464
+2023-05-06,Antibiotics,5526
+2023-05-06,Pain Relief Gel,3549
+2023-05-07,Paracetamol,4937
+2023-05-07,Cough Syrup,4323
+2023-05-07,Vitamins,3388
+2023-05-07,Antibiotics,5116
+2023-05-07,Pain Relief Gel,3630
+2023-05-08,Paracetamol,5381
+2023-05-08,Cough Syrup,4999
+2023-05-08,Vitamins,3821
+2023-05-08,Antibiotics,6258
+2023-05-08,Pain Relief Gel,4196
+2023-05-09,Paracetamol,5221
+2023-05-09,Cough Syrup,5085
+2023-05-09,Vitamins,3886
+2023-05-09,Antibiotics,6574
+2023-05-09,Pain Relief Gel,4352
+2023-05-10,Paracetamol,5539
+2023-05-10,Cough Syrup,4898
+2023-05-10,Vitamins,4228
+2023-05-10,Antibiotics,6840
+2023-05-10,Pain Relief Gel,4389
+2023-05-11,Paracetamol,5571
+2023-05-11,Cough Syrup,5169
+2023-05-11,Vitamins,3789
+2023-05-11,Antibiotics,6719
+2023-05-11,Pain Relief Gel,4366
+2023-05-12,Paracetamol,5500
+2023-05-12,Cough Syrup,4882
+2023-05-12,Vitamins,3982
+2023-05-12,Antibiotics,6271
+2023-05-12,Pain Relief Gel,4597
+2023-05-13,Paracetamol,4695
+2023-05-13,Cough Syrup,4369
+2023-05-13,Vitamins,3397
+2023-05-13,Antibiotics,5390
+2023-05-13,Pain Relief Gel,3604
+2023-05-14,Paracetamol,5142
+2023-05-14,Cough Syrup,4109
+2023-05-14,Vitamins,3285
+2023-05-14,Antibiotics,5172
+2023-05-14,Pain Relief Gel,3791
+2023-05-15,Paracetamol,5530
+2023-05-15,Cough Syrup,4909
+2023-05-15,Vitamins,3992
+2023-05-15,Antibiotics,6496
+2023-05-15,Pain Relief Gel,4163
+2023-05-16,Paracetamol,5489
+2023-05-16,Cough Syrup,4561
+2023-05-16,Vitamins,3754
+2023-05-16,Antibiotics,6388
+2023-05-16,Pain Relief Gel,4240
+2023-05-17,Paracetamol,5630
+2023-05-17,Cough Syrup,4937
+2023-05-17,Vitamins,3835
+2023-05-17,Antibiotics,6326
+2023-05-17,Pain Relief Gel,4215
+2023-05-18,Paracetamol,6062
+2023-05-18,Cough Syrup,4777
+2023-05-18,Vitamins,4185
+2023-05-18,Antibiotics,6620
+2023-05-18,Pain Relief Gel,4250
+2023-05-19,Paracetamol,5788
+2023-05-19,Cough Syrup,5093
+2023-05-19,Vitamins,3644
+2023-05-19,Antibiotics,5967
+2023-05-19,Pain Relief Gel,4128
+2023-05-20,Paracetamol,4719
+2023-05-20,Cough Syrup,4383
+2023-05-20,Vitamins,3326
+2023-05-20,Antibiotics,5283
+2023-05-20,Pain Relief Gel,3564
+2023-05-21,Paracetamol,4767
+2023-05-21,Cough Syrup,4132
+2023-05-21,Vitamins,3206
+2023-05-21,Antibiotics,5535
+2023-05-21,Pain Relief Gel,3510
+2023-05-22,Paracetamol,5428
+2023-05-22,Cough Syrup,4670
+2023-05-22,Vitamins,3672
+2023-05-22,Antibiotics,6245
+2023-05-22,Pain Relief Gel,4125
+2023-05-23,Paracetamol,5388
+2023-05-23,Cough Syrup,5036
+2023-05-23,Vitamins,3784
+2023-05-23,Antibiotics,6068
+2023-05-23,Pain Relief Gel,4080
+2023-05-24,Paracetamol,5704
+2023-05-24,Cough Syrup,4569
+2023-05-24,Vitamins,3927
+2023-05-24,Antibiotics,6144
+2023-05-24,Pain Relief Gel,3997
+2023-05-25,Paracetamol,4907
+2023-05-25,Cough Syrup,4808
+2023-05-25,Vitamins,3813
+2023-05-25,Antibiotics,5859
+2023-05-25,Pain Relief Gel,4156
+2023-05-26,Paracetamol,5451
+2023-05-26,Cough Syrup,4599
+2023-05-26,Vitamins,3710
+2023-05-26,Antibiotics,6205
+2023-05-26,Pain Relief Gel,4071
+2023-05-27,Paracetamol,4664
+2023-05-27,Cough Syrup,4071
+2023-05-27,Vitamins,3503
+2023-05-27,Antibiotics,5316
+2023-05-27,Pain Relief Gel,3505
+2023-05-28,Paracetamol,4819
+2023-05-28,Cough Syrup,4429
+2023-05-28,Vitamins,3402
+2023-05-28,Antibiotics,5283
+2023-05-28,Pain Relief Gel,3546
+2023-05-29,Paracetamol,5423
+2023-05-29,Cough Syrup,4624
+2023-05-29,Vitamins,3773
+2023-05-29,Antibiotics,6103
+2023-05-29,Pain Relief Gel,3939
+2023-05-30,Paracetamol,5500
+2023-05-30,Cough Syrup,4697
+2023-05-30,Vitamins,3686
+2023-05-30,Antibiotics,6161
+2023-05-30,Pain Relief Gel,4082
+2023-05-31,Paracetamol,5224
+2023-05-31,Cough Syrup,4747
+2023-05-31,Vitamins,3706
+2023-05-31,Antibiotics,6304
+2023-05-31,Pain Relief Gel,4156
+2023-06-01,Paracetamol,5403
+2023-06-01,Cough Syrup,4644
+2023-06-01,Vitamins,4072
+2023-06-01,Antibiotics,5994
+2023-06-01,Pain Relief Gel,3991
+2023-06-02,Paracetamol,5421
+2023-06-02,Cough Syrup,4734
+2023-06-02,Vitamins,3624
+2023-06-02,Antibiotics,6250
+2023-06-02,Pain Relief Gel,4222
+2023-06-03,Paracetamol,4844
+2023-06-03,Cough Syrup,4222
+2023-06-03,Vitamins,2958
+2023-06-03,Antibiotics,4952
+2023-06-03,Pain Relief Gel,3251
+2023-06-04,Paracetamol,4427
+2023-06-04,Cough Syrup,4039
+2023-06-04,Vitamins,3276
+2023-06-04,Antibiotics,5035
+2023-06-04,Pain Relief Gel,3304
+2023-06-05,Paracetamol,5291
+2023-06-05,Cough Syrup,4562
+2023-06-05,Vitamins,3866
+2023-06-05,Antibiotics,5580
+2023-06-05,Pain Relief Gel,3977
+2023-06-06,Paracetamol,5323
+2023-06-06,Cough Syrup,4563
+2023-06-06,Vitamins,3483
+2023-06-06,Antibiotics,5912
+2023-06-06,Pain Relief Gel,4059
+2023-06-07,Paracetamol,5502
+2023-06-07,Cough Syrup,4589
+2023-06-07,Vitamins,3620
+2023-06-07,Antibiotics,5663
+2023-06-07,Pain Relief Gel,3980
+2023-06-08,Paracetamol,5368
+2023-06-08,Cough Syrup,4892
+2023-06-08,Vitamins,3702
+2023-06-08,Antibiotics,6143
+2023-06-08,Pain Relief Gel,3952
+2023-06-09,Paracetamol,5436
+2023-06-09,Cough Syrup,4912
+2023-06-09,Vitamins,3572
+2023-06-09,Antibiotics,5963
+2023-06-09,Pain Relief Gel,3969
+2023-06-10,Paracetamol,4387
+2023-06-10,Cough Syrup,3773
+2023-06-10,Vitamins,2962
+2023-06-10,Antibiotics,5360
+2023-06-10,Pain Relief Gel,3297
+2023-06-11,Paracetamol,4870
+2023-06-11,Cough Syrup,4114
+2023-06-11,Vitamins,3307
+2023-06-11,Antibiotics,5229
+2023-06-11,Pain Relief Gel,3140
+2023-06-12,Paracetamol,5481
+2023-06-12,Cough Syrup,4803
+2023-06-12,Vitamins,3522
+2023-06-12,Antibiotics,5591
+2023-06-12,Pain Relief Gel,3846
+2023-06-13,Paracetamol,5101
+2023-06-13,Cough Syrup,4610
+2023-06-13,Vitamins,3678
+2023-06-13,Antibiotics,6202
+2023-06-13,Pain Relief Gel,3953
+2023-06-14,Paracetamol,5210
+2023-06-14,Cough Syrup,4618
+2023-06-14,Vitamins,3571
+2023-06-14,Antibiotics,5512
+2023-06-14,Pain Relief Gel,3776
+2023-06-15,Paracetamol,5081
+2023-06-15,Cough Syrup,4680
+2023-06-15,Vitamins,3389
+2023-06-15,Antibiotics,5413
+2023-06-15,Pain Relief Gel,3710
+2023-06-16,Paracetamol,5021
+2023-06-16,Cough Syrup,4441
+2023-06-16,Vitamins,3316
+2023-06-16,Antibiotics,5692
+2023-06-16,Pain Relief Gel,4079
+2023-06-17,Paracetamol,4498
+2023-06-17,Cough Syrup,3948
+2023-06-17,Vitamins,3008
+2023-06-17,Antibiotics,5301
+2023-06-17,Pain Relief Gel,3247
+2023-06-18,Paracetamol,4344
+2023-06-18,Cough Syrup,4005
+2023-06-18,Vitamins,2855
+2023-06-18,Antibiotics,4924
+2023-06-18,Pain Relief Gel,3237
+2023-06-19,Paracetamol,5104
+2023-06-19,Cough Syrup,4323
+2023-06-19,Vitamins,3498
+2023-06-19,Antibiotics,5505
+2023-06-19,Pain Relief Gel,3767
+2023-06-20,Paracetamol,4844
+2023-06-20,Cough Syrup,4425
+2023-06-20,Vitamins,3602
+2023-06-20,Antibiotics,5511
+2023-06-20,Pain Relief Gel,3614
+2023-06-21,Paracetamol,5043
+2023-06-21,Cough Syrup,4459
+2023-06-21,Vitamins,3350
+2023-06-21,Antibiotics,5286
+2023-06-21,Pain Relief Gel,3770
+2023-06-22,Paracetamol,5166
+2023-06-22,Cough Syrup,4600
+2023-06-22,Vitamins,3556
+2023-06-22,Antibiotics,5454
+2023-06-22,Pain Relief Gel,3563
+2023-06-23,Paracetamol,5053
+2023-06-23,Cough Syrup,4480
+2023-06-23,Vitamins,3343
+2023-06-23,Antibiotics,6122
+2023-06-23,Pain Relief Gel,3806
+2023-06-24,Paracetamol,4356
+2023-06-24,Cough Syrup,4077
+2023-06-24,Vitamins,3078
+2023-06-24,Antibiotics,4941
+2023-06-24,Pain Relief Gel,3340
+2023-06-25,Paracetamol,4325
+2023-06-25,Cough Syrup,3623
+2023-06-25,Vitamins,2978
+2023-06-25,Antibiotics,5058
+2023-06-25,Pain Relief Gel,3200
+2023-06-26,Paracetamol,5447
+2023-06-26,Cough Syrup,4188
+2023-06-26,Vitamins,3680
+2023-06-26,Antibiotics,5640
+2023-06-26,Pain Relief Gel,3643
+2023-06-27,Paracetamol,4925
+2023-06-27,Cough Syrup,4273
+2023-06-27,Vitamins,3339
+2023-06-27,Antibiotics,5728
+2023-06-27,Pain Relief Gel,3623
+2023-06-28,Paracetamol,5091
+2023-06-28,Cough Syrup,4701
+2023-06-28,Vitamins,3551
+2023-06-28,Antibiotics,5526
+2023-06-28,Pain Relief Gel,3523
+2023-06-29,Paracetamol,4801
+2023-06-29,Cough Syrup,4326
+2023-06-29,Vitamins,3463
+2023-06-29,Antibiotics,5370
+2023-06-29,Pain Relief Gel,3556
+2023-06-30,Paracetamol,5083
+2023-06-30,Cough Syrup,4226
+2023-06-30,Vitamins,3573
+2023-06-30,Antibiotics,5349
+2023-06-30,Pain Relief Gel,3484
+2023-07-01,Paracetamol,4408
+2023-07-01,Cough Syrup,3572
+2023-07-01,Vitamins,2895
+2023-07-01,Antibiotics,4883
+2023-07-01,Pain Relief Gel,2985
+2023-07-02,Paracetamol,4275
+2023-07-02,Cough Syrup,3741
+2023-07-02,Vitamins,2910
+2023-07-02,Antibiotics,4735
+2023-07-02,Pain Relief Gel,3117
+2023-07-03,Paracetamol,4917
+2023-07-03,Cough Syrup,4239
+2023-07-03,Vitamins,3193
+2023-07-03,Antibiotics,4988
+2023-07-03,Pain Relief Gel,3426
+2023-07-04,Paracetamol,4674
+2023-07-04,Cough Syrup,4145
+2023-07-04,Vitamins,3507
+2023-07-04,Antibiotics,5073
+2023-07-04,Pain Relief Gel,3618
+2023-07-05,Paracetamol,4696
+2023-07-05,Cough Syrup,4452
+2023-07-05,Vitamins,3286
+2023-07-05,Antibiotics,5597
+2023-07-05,Pain Relief Gel,3439
+2023-07-06,Paracetamol,4655
+2023-07-06,Cough Syrup,4049
+2023-07-06,Vitamins,3541
+2023-07-06,Antibiotics,5492
+2023-07-06,Pain Relief Gel,3658
+2023-07-07,Paracetamol,4839
+2023-07-07,Cough Syrup,4107
+2023-07-07,Vitamins,3358
+2023-07-07,Antibiotics,5061
+2023-07-07,Pain Relief Gel,3508
+2023-07-08,Paracetamol,3984
+2023-07-08,Cough Syrup,3477
+2023-07-08,Vitamins,3100
+2023-07-08,Antibiotics,4774
+2023-07-08,Pain Relief Gel,2940
+2023-07-09,Paracetamol,4031
+2023-07-09,Cough Syrup,3694
+2023-07-09,Vitamins,2846
+2023-07-09,Antibiotics,4478
+2023-07-09,Pain Relief Gel,3308
+2023-07-10,Paracetamol,4598
+2023-07-10,Cough Syrup,3991
+2023-07-10,Vitamins,3504
+2023-07-10,Antibiotics,5345
+2023-07-10,Pain Relief Gel,3573
+2023-07-11,Paracetamol,4643
+2023-07-11,Cough Syrup,3964
+2023-07-11,Vitamins,3106
+2023-07-11,Antibiotics,5332
+2023-07-11,Pain Relief Gel,3525
+2023-07-12,Paracetamol,4415
+2023-07-12,Cough Syrup,4000
+2023-07-12,Vitamins,3447
+2023-07-12,Antibiotics,5155
+2023-07-12,Pain Relief Gel,3273
+2023-07-13,Paracetamol,4585
+2023-07-13,Cough Syrup,3965
+2023-07-13,Vitamins,3213
+2023-07-13,Antibiotics,5109
+2023-07-13,Pain Relief Gel,3322
+2023-07-14,Paracetamol,4548
+2023-07-14,Cough Syrup,4045
+2023-07-14,Vitamins,3458
+2023-07-14,Antibiotics,5225
+2023-07-14,Pain Relief Gel,3714
+2023-07-15,Paracetamol,3924
+2023-07-15,Cough Syrup,3746
+2023-07-15,Vitamins,2770
+2023-07-15,Antibiotics,4328
+2023-07-15,Pain Relief Gel,2886
+2023-07-16,Paracetamol,3906
+2023-07-16,Cough Syrup,3164
+2023-07-16,Vitamins,2802
+2023-07-16,Antibiotics,4355
+2023-07-16,Pain Relief Gel,2948
+2023-07-17,Paracetamol,4644
+2023-07-17,Cough Syrup,3981
+2023-07-17,Vitamins,2944
+2023-07-17,Antibiotics,4845
+2023-07-17,Pain Relief Gel,3509
+2023-07-18,Paracetamol,4526
+2023-07-18,Cough Syrup,3735
+2023-07-18,Vitamins,3133
+2023-07-18,Antibiotics,5141
+2023-07-18,Pain Relief Gel,3576
+2023-07-19,Paracetamol,4532
+2023-07-19,Cough Syrup,3830
+2023-07-19,Vitamins,3029
+2023-07-19,Antibiotics,4966
+2023-07-19,Pain Relief Gel,3579
+2023-07-20,Paracetamol,4648
+2023-07-20,Cough Syrup,4147
+2023-07-20,Vitamins,3048
+2023-07-20,Antibiotics,4943
+2023-07-20,Pain Relief Gel,3295
+2023-07-21,Paracetamol,4317
+2023-07-21,Cough Syrup,3835
+2023-07-21,Vitamins,3101
+2023-07-21,Antibiotics,5112
+2023-07-21,Pain Relief Gel,3555
+2023-07-22,Paracetamol,3698
+2023-07-22,Cough Syrup,3393
+2023-07-22,Vitamins,2697
+2023-07-22,Antibiotics,4159
+2023-07-22,Pain Relief Gel,2884
+2023-07-23,Paracetamol,3953
+2023-07-23,Cough Syrup,3121
+2023-07-23,Vitamins,2743
+2023-07-23,Antibiotics,4380
+2023-07-23,Pain Relief Gel,3116
+2023-07-24,Paracetamol,4435
+2023-07-24,Cough Syrup,3666
+2023-07-24,Vitamins,2993
+2023-07-24,Antibiotics,4963
+2023-07-24,Pain Relief Gel,3448
+2023-07-25,Paracetamol,4252
+2023-07-25,Cough Syrup,3392
+2023-07-25,Vitamins,3043
+2023-07-25,Antibiotics,5110
+2023-07-25,Pain Relief Gel,3389
+2023-07-26,Paracetamol,4473
+2023-07-26,Cough Syrup,3957
+2023-07-26,Vitamins,3184
+2023-07-26,Antibiotics,4898
+2023-07-26,Pain Relief Gel,3117
+2023-07-27,Paracetamol,4224
+2023-07-27,Cough Syrup,3699
+2023-07-27,Vitamins,3096
+2023-07-27,Antibiotics,4740
+2023-07-27,Pain Relief Gel,3369
+2023-07-28,Paracetamol,4262
+2023-07-28,Cough Syrup,3636
+2023-07-28,Vitamins,3310
+2023-07-28,Antibiotics,5102
+2023-07-28,Pain Relief Gel,3430
+2023-07-29,Paracetamol,3969
+2023-07-29,Cough Syrup,3202
+2023-07-29,Vitamins,2604
+2023-07-29,Antibiotics,4215
+2023-07-29,Pain Relief Gel,2831
+2023-07-30,Paracetamol,3785
+2023-07-30,Cough Syrup,3414
+2023-07-30,Vitamins,2550
+2023-07-30,Antibiotics,4145
+2023-07-30,Pain Relief Gel,2955
+2023-07-31,Paracetamol,4666
+2023-07-31,Cough Syrup,3883
+2023-07-31,Vitamins,3020
+2023-07-31,Antibiotics,5148
+2023-07-31,Pain Relief Gel,3232
+2023-08-01,Paracetamol,3994
+2023-08-01,Cough Syrup,3840
+2023-08-01,Vitamins,2896
+2023-08-01,Antibiotics,4639
+2023-08-01,Pain Relief Gel,3017
+2023-08-02,Paracetamol,4369
+2023-08-02,Cough Syrup,3945
+2023-08-02,Vitamins,3023
+2023-08-02,Antibiotics,4709
+2023-08-02,Pain Relief Gel,3176
+2023-08-03,Paracetamol,4483
+2023-08-03,Cough Syrup,3714
+2023-08-03,Vitamins,3279
+2023-08-03,Antibiotics,5054
+2023-08-03,Pain Relief Gel,3253
+2023-08-04,Paracetamol,4512
+2023-08-04,Cough Syrup,3825
+2023-08-04,Vitamins,2858
+2023-08-04,Antibiotics,4688
+2023-08-04,Pain Relief Gel,2926
+2023-08-05,Paracetamol,3608
+2023-08-05,Cough Syrup,3064
+2023-08-05,Vitamins,2367
+2023-08-05,Antibiotics,4010
+2023-08-05,Pain Relief Gel,2782
+2023-08-06,Paracetamol,3747
+2023-08-06,Cough Syrup,3081
+2023-08-06,Vitamins,2385
+2023-08-06,Antibiotics,4184
+2023-08-06,Pain Relief Gel,2758
+2023-08-07,Paracetamol,4065
+2023-08-07,Cough Syrup,3932
+2023-08-07,Vitamins,2997
+2023-08-07,Antibiotics,4540
+2023-08-07,Pain Relief Gel,3205
+2023-08-08,Paracetamol,4236
+2023-08-08,Cough Syrup,3599
+2023-08-08,Vitamins,2777
+2023-08-08,Antibiotics,4866
+2023-08-08,Pain Relief Gel,2961
+2023-08-09,Paracetamol,4128
+2023-08-09,Cough Syrup,3770
+2023-08-09,Vitamins,2961
+2023-08-09,Antibiotics,4846
+2023-08-09,Pain Relief Gel,2995
+2023-08-10,Paracetamol,3987
+2023-08-10,Cough Syrup,3680
+2023-08-10,Vitamins,2800
+2023-08-10,Antibiotics,4401
+2023-08-10,Pain Relief Gel,3172
+2023-08-11,Paracetamol,3931
+2023-08-11,Cough Syrup,3785
+2023-08-11,Vitamins,2786
+2023-08-11,Antibiotics,4656
+2023-08-11,Pain Relief Gel,3143
+2023-08-12,Paracetamol,3604
+2023-08-12,Cough Syrup,2991
+2023-08-12,Vitamins,2491
+2023-08-12,Antibiotics,3679
+2023-08-12,Pain Relief Gel,2598
+2023-08-13,Paracetamol,3484
+2023-08-13,Cough Syrup,3157
+2023-08-13,Vitamins,2690
+2023-08-13,Antibiotics,3620
+2023-08-13,Pain Relief Gel,2581
+2023-08-14,Paracetamol,3868
+2023-08-14,Cough Syrup,3620
+2023-08-14,Vitamins,2987
+2023-08-14,Antibiotics,4695
+2023-08-14,Pain Relief Gel,2902
+2023-08-15,Paracetamol,4270
+2023-08-15,Cough Syrup,3531
+2023-08-15,Vitamins,2760
+2023-08-15,Antibiotics,4502
+2023-08-15,Pain Relief Gel,3120
+2023-08-16,Paracetamol,4070
+2023-08-16,Cough Syrup,3512
+2023-08-16,Vitamins,2744
+2023-08-16,Antibiotics,4581
+2023-08-16,Pain Relief Gel,3137
+2023-08-17,Paracetamol,3735
+2023-08-17,Cough Syrup,3401
+2023-08-17,Vitamins,3111
+2023-08-17,Antibiotics,4376
+2023-08-17,Pain Relief Gel,2947
+2023-08-18,Paracetamol,3712
+2023-08-18,Cough Syrup,3816
+2023-08-18,Vitamins,2829
+2023-08-18,Antibiotics,4564
+2023-08-18,Pain Relief Gel,3034
+2023-08-19,Paracetamol,3521
+2023-08-19,Cough Syrup,3189
+2023-08-19,Vitamins,2363
+2023-08-19,Antibiotics,3795
+2023-08-19,Pain Relief Gel,2548
+2023-08-20,Paracetamol,3785
+2023-08-20,Cough Syrup,3340
+2023-08-20,Vitamins,2408
+2023-08-20,Antibiotics,3804
+2023-08-20,Pain Relief Gel,2742
+2023-08-21,Paracetamol,3854
+2023-08-21,Cough Syrup,3841
+2023-08-21,Vitamins,2715
+2023-08-21,Antibiotics,4243
+2023-08-21,Pain Relief Gel,3065
+2023-08-22,Paracetamol,4032
+2023-08-22,Cough Syrup,3479
+2023-08-22,Vitamins,2966
+2023-08-22,Antibiotics,4439
+2023-08-22,Pain Relief Gel,3118
+2023-08-23,Paracetamol,4042
+2023-08-23,Cough Syrup,3424
+2023-08-23,Vitamins,2881
+2023-08-23,Antibiotics,4663
+2023-08-23,Pain Relief Gel,2857
+2023-08-24,Paracetamol,4129
+2023-08-24,Cough Syrup,3498
+2023-08-24,Vitamins,2721
+2023-08-24,Antibiotics,4345
+2023-08-24,Pain Relief Gel,3111
+2023-08-25,Paracetamol,4057
+2023-08-25,Cough Syrup,3415
+2023-08-25,Vitamins,2832
+2023-08-25,Antibiotics,4485
+2023-08-25,Pain Relief Gel,2944
+2023-08-26,Paracetamol,3557
+2023-08-26,Cough Syrup,2935
+2023-08-26,Vitamins,2403
+2023-08-26,Antibiotics,3865
+2023-08-26,Pain Relief Gel,2475
+2023-08-27,Paracetamol,3332
+2023-08-27,Cough Syrup,2932
+2023-08-27,Vitamins,2349
+2023-08-27,Antibiotics,3825
+2023-08-27,Pain Relief Gel,2425
+2023-08-28,Paracetamol,3907
+2023-08-28,Cough Syrup,3643
+2023-08-28,Vitamins,2710
+2023-08-28,Antibiotics,4518
+2023-08-28,Pain Relief Gel,2866
+2023-08-29,Paracetamol,3639
+2023-08-29,Cough Syrup,3409
+2023-08-29,Vitamins,2829
+2023-08-29,Antibiotics,4600
+2023-08-29,Pain Relief Gel,3138
+2023-08-30,Paracetamol,4144
+2023-08-30,Cough Syrup,3793
+2023-08-30,Vitamins,2863
+2023-08-30,Antibiotics,4245
+2023-08-30,Pain Relief Gel,2894
+2023-08-31,Paracetamol,4150
+2023-08-31,Cough Syrup,3797
+2023-08-31,Vitamins,2651
+2023-08-31,Antibiotics,4432
+2023-08-31,Pain Relief Gel,3134
+2023-09-01,Paracetamol,3810
+2023-09-01,Cough Syrup,3590
+2023-09-01,Vitamins,2686
+2023-09-01,Antibiotics,4440
+2023-09-01,Pain Relief Gel,3036
+2023-09-02,Paracetamol,3269
+2023-09-02,Cough Syrup,2970
+2023-09-02,Vitamins,2366
+2023-09-02,Antibiotics,3810
+2023-09-02,Pain Relief Gel,2366
+2023-09-03,Paracetamol,3411
+2023-09-03,Cough Syrup,2794
+2023-09-03,Vitamins,2396
+2023-09-03,Antibiotics,3643
+2023-09-03,Pain Relief Gel,2598
+2023-09-04,Paracetamol,3541
+2023-09-04,Cough Syrup,3584
+2023-09-04,Vitamins,2758
+2023-09-04,Antibiotics,4556
+2023-09-04,Pain Relief Gel,2881
+2023-09-05,Paracetamol,3843
+2023-09-05,Cough Syrup,3341
+2023-09-05,Vitamins,2519
+2023-09-05,Antibiotics,4131
+2023-09-05,Pain Relief Gel,2898
+2023-09-06,Paracetamol,3735
+2023-09-06,Cough Syrup,3233
+2023-09-06,Vitamins,2797
+2023-09-06,Antibiotics,4645
+2023-09-06,Pain Relief Gel,2904
+2023-09-07,Paracetamol,3802
+2023-09-07,Cough Syrup,3341
+2023-09-07,Vitamins,2709
+2023-09-07,Antibiotics,4396
+2023-09-07,Pain Relief Gel,2692
+2023-09-08,Paracetamol,3937
+2023-09-08,Cough Syrup,3238
+2023-09-08,Vitamins,2606
+2023-09-08,Antibiotics,4163
+2023-09-08,Pain Relief Gel,2755
+2023-09-09,Paracetamol,3335
+2023-09-09,Cough Syrup,2869
+2023-09-09,Vitamins,2222
+2023-09-09,Antibiotics,3603
+2023-09-09,Pain Relief Gel,2490
+2023-09-10,Paracetamol,3168
+2023-09-10,Cough Syrup,2684
+2023-09-10,Vitamins,2380
+2023-09-10,Antibiotics,3483
+2023-09-10,Pain Relief Gel,2658
+2023-09-11,Paracetamol,4131
+2023-09-11,Cough Syrup,3403
+2023-09-11,Vitamins,2519
+2023-09-11,Antibiotics,4716
+2023-09-11,Pain Relief Gel,2971
+2023-09-12,Paracetamol,3832
+2023-09-12,Cough Syrup,3285
+2023-09-12,Vitamins,2869
+2023-09-12,Antibiotics,4369
+2023-09-12,Pain Relief Gel,2792
+2023-09-13,Paracetamol,3773
+2023-09-13,Cough Syrup,3384
+2023-09-13,Vitamins,2520
+2023-09-13,Antibiotics,3952
+2023-09-13,Pain Relief Gel,2737
+2023-09-14,Paracetamol,3983
+2023-09-14,Cough Syrup,3428
+2023-09-14,Vitamins,2648
+2023-09-14,Antibiotics,4503
+2023-09-14,Pain Relief Gel,2781
+2023-09-15,Paracetamol,3901
+2023-09-15,Cough Syrup,3247
+2023-09-15,Vitamins,2780
+2023-09-15,Antibiotics,4372
+2023-09-15,Pain Relief Gel,2851
+2023-09-16,Paracetamol,3352
+2023-09-16,Cough Syrup,2919
+2023-09-16,Vitamins,2299
+2023-09-16,Antibiotics,4111
+2023-09-16,Pain Relief Gel,2593
+2023-09-17,Paracetamol,3302
+2023-09-17,Cough Syrup,2864
+2023-09-17,Vitamins,2270
+2023-09-17,Antibiotics,3688
+2023-09-17,Pain Relief Gel,2473
+2023-09-18,Paracetamol,3758
+2023-09-18,Cough Syrup,2974
+2023-09-18,Vitamins,2392
+2023-09-18,Antibiotics,3912
+2023-09-18,Pain Relief Gel,2635
+2023-09-19,Paracetamol,3651
+2023-09-19,Cough Syrup,3203
+2023-09-19,Vitamins,2652
+2023-09-19,Antibiotics,4196
+2023-09-19,Pain Relief Gel,2857
+2023-09-20,Paracetamol,3762
+2023-09-20,Cough Syrup,3371
+2023-09-20,Vitamins,2726
+2023-09-20,Antibiotics,4625
+2023-09-20,Pain Relief Gel,2888
+2023-09-21,Paracetamol,3956
+2023-09-21,Cough Syrup,3414
+2023-09-21,Vitamins,2684
+2023-09-21,Antibiotics,4243
+2023-09-21,Pain Relief Gel,2768
+2023-09-22,Paracetamol,3725
+2023-09-22,Cough Syrup,3321
+2023-09-22,Vitamins,2695
+2023-09-22,Antibiotics,4427
+2023-09-22,Pain Relief Gel,2716
+2023-09-23,Paracetamol,3437
+2023-09-23,Cough Syrup,3214
+2023-09-23,Vitamins,2192
+2023-09-23,Antibiotics,3715
+2023-09-23,Pain Relief Gel,2528
+2023-09-24,Paracetamol,3123
+2023-09-24,Cough Syrup,2716
+2023-09-24,Vitamins,2225
+2023-09-24,Antibiotics,3446
+2023-09-24,Pain Relief Gel,2564
+2023-09-25,Paracetamol,3467
+2023-09-25,Cough Syrup,3360
+2023-09-25,Vitamins,2632
+2023-09-25,Antibiotics,4541
+2023-09-25,Pain Relief Gel,2902
+2023-09-26,Paracetamol,3890
+2023-09-26,Cough Syrup,3438
+2023-09-26,Vitamins,2620
+2023-09-26,Antibiotics,4120
+2023-09-26,Pain Relief Gel,2688
+2023-09-27,Paracetamol,3994
+2023-09-27,Cough Syrup,3632
+2023-09-27,Vitamins,2564
+2023-09-27,Antibiotics,4200
+2023-09-27,Pain Relief Gel,2746
+2023-09-28,Paracetamol,4045
+2023-09-28,Cough Syrup,3501
+2023-09-28,Vitamins,2627
+2023-09-28,Antibiotics,4174
+2023-09-28,Pain Relief Gel,2794
+2023-09-29,Paracetamol,3753
+2023-09-29,Cough Syrup,3304
+2023-09-29,Vitamins,2578
+2023-09-29,Antibiotics,4625
+2023-09-29,Pain Relief Gel,2875
+2023-09-30,Paracetamol,3637
+2023-09-30,Cough Syrup,3081
+2023-09-30,Vitamins,2222
+2023-09-30,Antibiotics,3632
+2023-09-30,Pain Relief Gel,2342
+2023-10-01,Paracetamol,3235
+2023-10-01,Cough Syrup,2838
+2023-10-01,Vitamins,2499
+2023-10-01,Antibiotics,3721
+2023-10-01,Pain Relief Gel,2500
+2023-10-02,Paracetamol,3540
+2023-10-02,Cough Syrup,3247
+2023-10-02,Vitamins,2786
+2023-10-02,Antibiotics,4114
+2023-10-02,Pain Relief Gel,2928
+2023-10-03,Paracetamol,3783
+2023-10-03,Cough Syrup,3220
+2023-10-03,Vitamins,2517
+2023-10-03,Antibiotics,4215
+2023-10-03,Pain Relief Gel,2830
+2023-10-04,Paracetamol,3686
+2023-10-04,Cough Syrup,3183
+2023-10-04,Vitamins,2695
+2023-10-04,Antibiotics,4162
+2023-10-04,Pain Relief Gel,2908
+2023-10-05,Paracetamol,3900
+2023-10-05,Cough Syrup,3282
+2023-10-05,Vitamins,2776
+2023-10-05,Antibiotics,4504
+2023-10-05,Pain Relief Gel,2875
+2023-10-06,Paracetamol,4107
+2023-10-06,Cough Syrup,3330
+2023-10-06,Vitamins,2515
+2023-10-06,Antibiotics,4285
+2023-10-06,Pain Relief Gel,2889
+2023-10-07,Paracetamol,3222
+2023-10-07,Cough Syrup,2990
+2023-10-07,Vitamins,2412
+2023-10-07,Antibiotics,3511
+2023-10-07,Pain Relief Gel,2193
+2023-10-08,Paracetamol,3261
+2023-10-08,Cough Syrup,2891
+2023-10-08,Vitamins,2455
+2023-10-08,Antibiotics,3835
+2023-10-08,Pain Relief Gel,2324
+2023-10-09,Paracetamol,3821
+2023-10-09,Cough Syrup,3126
+2023-10-09,Vitamins,2453
+2023-10-09,Antibiotics,4415
+2023-10-09,Pain Relief Gel,2925
+2023-10-10,Paracetamol,4160
+2023-10-10,Cough Syrup,3271
+2023-10-10,Vitamins,2747
+2023-10-10,Antibiotics,4096
+2023-10-10,Pain Relief Gel,2723
+2023-10-11,Paracetamol,3760
+2023-10-11,Cough Syrup,3398
+2023-10-11,Vitamins,2549
+2023-10-11,Antibiotics,4321
+2023-10-11,Pain Relief Gel,2783
+2023-10-12,Paracetamol,3766
+2023-10-12,Cough Syrup,3528
+2023-10-12,Vitamins,2641
+2023-10-12,Antibiotics,4212
+2023-10-12,Pain Relief Gel,2770
+2023-10-13,Paracetamol,3678
+2023-10-13,Cough Syrup,3375
+2023-10-13,Vitamins,2674
+2023-10-13,Antibiotics,4486
+2023-10-13,Pain Relief Gel,3083
+2023-10-14,Paracetamol,3409
+2023-10-14,Cough Syrup,2856
+2023-10-14,Vitamins,2320
+2023-10-14,Antibiotics,3906
+2023-10-14,Pain Relief Gel,2716
+2023-10-15,Paracetamol,3269
+2023-10-15,Cough Syrup,2991
+2023-10-15,Vitamins,2440
+2023-10-15,Antibiotics,3698
+2023-10-15,Pain Relief Gel,2571
+2023-10-16,Paracetamol,3914
+2023-10-16,Cough Syrup,3340
+2023-10-16,Vitamins,2853
+2023-10-16,Antibiotics,4549
+2023-10-16,Pain Relief Gel,2907
+2023-10-17,Paracetamol,3639
+2023-10-17,Cough Syrup,3516
+2023-10-17,Vitamins,2672
+2023-10-17,Antibiotics,4197
+2023-10-17,Pain Relief Gel,2914
+2023-10-18,Paracetamol,4056
+2023-10-18,Cough Syrup,3529
+2023-10-18,Vitamins,2646
+2023-10-18,Antibiotics,4426
+2023-10-18,Pain Relief Gel,2698
+2023-10-19,Paracetamol,4198
+2023-10-19,Cough Syrup,3357
+2023-10-19,Vitamins,2715
+2023-10-19,Antibiotics,4331
+2023-10-19,Pain Relief Gel,2802
+2023-10-20,Paracetamol,4046
+2023-10-20,Cough Syrup,3546
+2023-10-20,Vitamins,2877
+2023-10-20,Antibiotics,4636
+2023-10-20,Pain Relief Gel,2970
+2023-10-21,Paracetamol,3133
+2023-10-21,Cough Syrup,2926
+2023-10-21,Vitamins,2399
+2023-10-21,Antibiotics,3999
+2023-10-21,Pain Relief Gel,2518
+2023-10-22,Paracetamol,3216
+2023-10-22,Cough Syrup,2966
+2023-10-22,Vitamins,2409
+2023-10-22,Antibiotics,3847
+2023-10-22,Pain Relief Gel,2380
+2023-10-23,Paracetamol,4102
+2023-10-23,Cough Syrup,3441
+2023-10-23,Vitamins,2728
+2023-10-23,Antibiotics,4385
+2023-10-23,Pain Relief Gel,3017
+2023-10-24,Paracetamol,3807
+2023-10-24,Cough Syrup,3604
+2023-10-24,Vitamins,2796
+2023-10-24,Antibiotics,4351
+2023-10-24,Pain Relief Gel,3024
+2023-10-25,Paracetamol,4281
+2023-10-25,Cough Syrup,3526
+2023-10-25,Vitamins,2919
+2023-10-25,Antibiotics,4528
+2023-10-25,Pain Relief Gel,3048
+2023-10-26,Paracetamol,3739
+2023-10-26,Cough Syrup,3675
+2023-10-26,Vitamins,2808
+2023-10-26,Antibiotics,4553
+2023-10-26,Pain Relief Gel,3025
+2023-10-27,Paracetamol,3966
+2023-10-27,Cough Syrup,3272
+2023-10-27,Vitamins,2704
+2023-10-27,Antibiotics,4454
+2023-10-27,Pain Relief Gel,3095
+2023-10-28,Paracetamol,3681
+2023-10-28,Cough Syrup,3060
+2023-10-28,Vitamins,2326
+2023-10-28,Antibiotics,3767
+2023-10-28,Pain Relief Gel,2626
+2023-10-29,Paracetamol,3142
+2023-10-29,Cough Syrup,3096
+2023-10-29,Vitamins,2400
+2023-10-29,Antibiotics,3828
+2023-10-29,Pain Relief Gel,2538
+2023-10-30,Paracetamol,4157
+2023-10-30,Cough Syrup,3568
+2023-10-30,Vitamins,2943
+2023-10-30,Antibiotics,4498
+2023-10-30,Pain Relief Gel,3218
+2023-10-31,Paracetamol,4142
+2023-10-31,Cough Syrup,3340
+2023-10-31,Vitamins,2723
+2023-10-31,Antibiotics,4478
+2023-10-31,Pain Relief Gel,3172
+2023-11-01,Paracetamol,4011
+2023-11-01,Cough Syrup,3259
+2023-11-01,Vitamins,2945
+2023-11-01,Antibiotics,4565
+2023-11-01,Pain Relief Gel,2763
+2023-11-02,Paracetamol,4036
+2023-11-02,Cough Syrup,3367
+2023-11-02,Vitamins,2715
+2023-11-02,Antibiotics,4666
+2023-11-02,Pain Relief Gel,3088
+2023-11-03,Paracetamol,3939
+2023-11-03,Cough Syrup,3594
+2023-11-03,Vitamins,2941
+2023-11-03,Antibiotics,4290
+2023-11-03,Pain Relief Gel,2999
+2023-11-04,Paracetamol,3695
+2023-11-04,Cough Syrup,3000
+2023-11-04,Vitamins,2491
+2023-11-04,Antibiotics,3839
+2023-11-04,Pain Relief Gel,2678
+2023-11-05,Paracetamol,3554
+2023-11-05,Cough Syrup,3233
+2023-11-05,Vitamins,2546
+2023-11-05,Antibiotics,3853
+2023-11-05,Pain Relief Gel,2437
+2023-11-06,Paracetamol,3834
+2023-11-06,Cough Syrup,3763
+2023-11-06,Vitamins,2937
+2023-11-06,Antibiotics,4661
+2023-11-06,Pain Relief Gel,2809
+2023-11-07,Paracetamol,4224
+2023-11-07,Cough Syrup,3644
+2023-11-07,Vitamins,2841
+2023-11-07,Antibiotics,4635
+2023-11-07,Pain Relief Gel,3021
+2023-11-08,Paracetamol,4354
+2023-11-08,Cough Syrup,3582
+2023-11-08,Vitamins,3006
+2023-11-08,Antibiotics,5184
+2023-11-08,Pain Relief Gel,3125
+2023-11-09,Paracetamol,4315
+2023-11-09,Cough Syrup,3840
+2023-11-09,Vitamins,2935
+2023-11-09,Antibiotics,4619
+2023-11-09,Pain Relief Gel,3173
+2023-11-10,Paracetamol,4441
+2023-11-10,Cough Syrup,3432
+2023-11-10,Vitamins,2883
+2023-11-10,Antibiotics,4709
+2023-11-10,Pain Relief Gel,3145
+2023-11-11,Paracetamol,3694
+2023-11-11,Cough Syrup,2994
+2023-11-11,Vitamins,2454
+2023-11-11,Antibiotics,4229
+2023-11-11,Pain Relief Gel,2809
+2023-11-12,Paracetamol,3414
+2023-11-12,Cough Syrup,3462
+2023-11-12,Vitamins,2437
+2023-11-12,Antibiotics,4299
+2023-11-12,Pain Relief Gel,2668
+2023-11-13,Paracetamol,4281
+2023-11-13,Cough Syrup,3460
+2023-11-13,Vitamins,3005
+2023-11-13,Antibiotics,5066
+2023-11-13,Pain Relief Gel,3094
+2023-11-14,Paracetamol,4328
+2023-11-14,Cough Syrup,3771
+2023-11-14,Vitamins,3016
+2023-11-14,Antibiotics,4218
+2023-11-14,Pain Relief Gel,2937
+2023-11-15,Paracetamol,3985
+2023-11-15,Cough Syrup,3613
+2023-11-15,Vitamins,3275
+2023-11-15,Antibiotics,4630
+2023-11-15,Pain Relief Gel,3421
+2023-11-16,Paracetamol,4346
+2023-11-16,Cough Syrup,3729
+2023-11-16,Vitamins,3185
+2023-11-16,Antibiotics,4976
+2023-11-16,Pain Relief Gel,3155
+2023-11-17,Paracetamol,4264
+2023-11-17,Cough Syrup,3837
+2023-11-17,Vitamins,2860
+2023-11-17,Antibiotics,4886
+2023-11-17,Pain Relief Gel,3503
+2023-11-18,Paracetamol,3719
+2023-11-18,Cough Syrup,3268
+2023-11-18,Vitamins,2750
+2023-11-18,Antibiotics,4371
+2023-11-18,Pain Relief Gel,2882
+2023-11-19,Paracetamol,3617
+2023-11-19,Cough Syrup,3280
+2023-11-19,Vitamins,2769
+2023-11-19,Antibiotics,4048
+2023-11-19,Pain Relief Gel,2845
+2023-11-20,Paracetamol,4476
+2023-11-20,Cough Syrup,3961
+2023-11-20,Vitamins,3044
+2023-11-20,Antibiotics,4839
+2023-11-20,Pain Relief Gel,3142
+2023-11-21,Paracetamol,4411
+2023-11-21,Cough Syrup,4098
+2023-11-21,Vitamins,3280
+2023-11-21,Antibiotics,4746
+2023-11-21,Pain Relief Gel,3446
+2023-11-22,Paracetamol,4674
+2023-11-22,Cough Syrup,3745
+2023-11-22,Vitamins,3006
+2023-11-22,Antibiotics,4953
+2023-11-22,Pain Relief Gel,3007
+2023-11-23,Paracetamol,4220
+2023-11-23,Cough Syrup,3895
+2023-11-23,Vitamins,2917
+2023-11-23,Antibiotics,4782
+2023-11-23,Pain Relief Gel,3261
+2023-11-24,Paracetamol,4418
+2023-11-24,Cough Syrup,3772
+2023-11-24,Vitamins,3128
+2023-11-24,Antibiotics,4868
+2023-11-24,Pain Relief Gel,3425
+2023-11-25,Paracetamol,3889
+2023-11-25,Cough Syrup,3461
+2023-11-25,Vitamins,2625
+2023-11-25,Antibiotics,4510
+2023-11-25,Pain Relief Gel,2966
+2023-11-26,Paracetamol,3980
+2023-11-26,Cough Syrup,3369
+2023-11-26,Vitamins,2766
+2023-11-26,Antibiotics,4610
+2023-11-26,Pain Relief Gel,2942
+2023-11-27,Paracetamol,4269
+2023-11-27,Cough Syrup,4097
+2023-11-27,Vitamins,3059
+2023-11-27,Antibiotics,4878
+2023-11-27,Pain Relief Gel,3387
+2023-11-28,Paracetamol,4312
+2023-11-28,Cough Syrup,3959
+2023-11-28,Vitamins,3343
+2023-11-28,Antibiotics,5100
+2023-11-28,Pain Relief Gel,3321
+2023-11-29,Paracetamol,4493
+2023-11-29,Cough Syrup,4027
+2023-11-29,Vitamins,3192
+2023-11-29,Antibiotics,5226
+2023-11-29,Pain Relief Gel,3468
+2023-11-30,Paracetamol,4742
+2023-11-30,Cough Syrup,4166
+2023-11-30,Vitamins,3207
+2023-11-30,Antibiotics,5023
+2023-11-30,Pain Relief Gel,3386
+2023-12-01,Paracetamol,4667
+2023-12-01,Cough Syrup,4332
+2023-12-01,Vitamins,3438
+2023-12-01,Antibiotics,5119
+2023-12-01,Pain Relief Gel,3369
+2023-12-02,Paracetamol,3740
+2023-12-02,Cough Syrup,3659
+2023-12-02,Vitamins,2566
+2023-12-02,Antibiotics,4273
+2023-12-02,Pain Relief Gel,2994
+2023-12-03,Paracetamol,3818
+2023-12-03,Cough Syrup,3812
+2023-12-03,Vitamins,2876
+2023-12-03,Antibiotics,4393
+2023-12-03,Pain Relief Gel,3039
+2023-12-04,Paracetamol,4967
+2023-12-04,Cough Syrup,3796
+2023-12-04,Vitamins,3379
+2023-12-04,Antibiotics,5446
+2023-12-04,Pain Relief Gel,3250
+2023-12-05,Paracetamol,4056
+2023-12-05,Cough Syrup,4100
+2023-12-05,Vitamins,3350
+2023-12-05,Antibiotics,5148
+2023-12-05,Pain Relief Gel,3573
+2023-12-06,Paracetamol,4898
+2023-12-06,Cough Syrup,4176
+2023-12-06,Vitamins,3264
+2023-12-06,Antibiotics,5148
+2023-12-06,Pain Relief Gel,3533
+2023-12-07,Paracetamol,4727
+2023-12-07,Cough Syrup,3795
+2023-12-07,Vitamins,3202
+2023-12-07,Antibiotics,5325
+2023-12-07,Pain Relief Gel,3729
+2023-12-08,Paracetamol,4863
+2023-12-08,Cough Syrup,4061
+2023-12-08,Vitamins,3369
+2023-12-08,Antibiotics,5320
+2023-12-08,Pain Relief Gel,3691
+2023-12-09,Paracetamol,4271
+2023-12-09,Cough Syrup,3656
+2023-12-09,Vitamins,2540
+2023-12-09,Antibiotics,5049
+2023-12-09,Pain Relief Gel,3250
+2023-12-10,Paracetamol,4237
+2023-12-10,Cough Syrup,3233
+2023-12-10,Vitamins,2803
+2023-12-10,Antibiotics,4438
+2023-12-10,Pain Relief Gel,2904
+2023-12-11,Paracetamol,4621
+2023-12-11,Cough Syrup,4250
+2023-12-11,Vitamins,3410
+2023-12-11,Antibiotics,5293
+2023-12-11,Pain Relief Gel,3628
+2023-12-12,Paracetamol,4602
+2023-12-12,Cough Syrup,3981
+2023-12-12,Vitamins,3363
+2023-12-12,Antibiotics,5372
+2023-12-12,Pain Relief Gel,3754
+2023-12-13,Paracetamol,4917
+2023-12-13,Cough Syrup,4016
+2023-12-13,Vitamins,3113
+2023-12-13,Antibiotics,5120
+2023-12-13,Pain Relief Gel,3813
+2023-12-14,Paracetamol,4908
+2023-12-14,Cough Syrup,4358
+2023-12-14,Vitamins,3343
+2023-12-14,Antibiotics,5642
+2023-12-14,Pain Relief Gel,3498
+2023-12-15,Paracetamol,4969
+2023-12-15,Cough Syrup,4221
+2023-12-15,Vitamins,3440
+2023-12-15,Antibiotics,5424
+2023-12-15,Pain Relief Gel,3983
+2023-12-16,Paracetamol,4475
+2023-12-16,Cough Syrup,3859
+2023-12-16,Vitamins,3012
+2023-12-16,Antibiotics,4561
+2023-12-16,Pain Relief Gel,3049
+2023-12-17,Paracetamol,4257
+2023-12-17,Cough Syrup,3604
+2023-12-17,Vitamins,2953
+2023-12-17,Antibiotics,5365
+2023-12-17,Pain Relief Gel,3253
+2023-12-18,Paracetamol,5123
+2023-12-18,Cough Syrup,4444
+2023-12-18,Vitamins,3832
+2023-12-18,Antibiotics,5926
+2023-12-18,Pain Relief Gel,3718
+2023-12-19,Paracetamol,4875
+2023-12-19,Cough Syrup,4544
+2023-12-19,Vitamins,3422
+2023-12-19,Antibiotics,5348
+2023-12-19,Pain Relief Gel,3922
+2023-12-20,Paracetamol,5283
+2023-12-20,Cough Syrup,4368
+2023-12-20,Vitamins,3481
+2023-12-20,Antibiotics,5805
+2023-12-20,Pain Relief Gel,3772
+2023-12-21,Paracetamol,5069
+2023-12-21,Cough Syrup,4415
+2023-12-21,Vitamins,3568
+2023-12-21,Antibiotics,5743
+2023-12-21,Pain Relief Gel,3877
+2023-12-22,Paracetamol,5299
+2023-12-22,Cough Syrup,4545
+2023-12-22,Vitamins,3667
+2023-12-22,Antibiotics,5752
+2023-12-22,Pain Relief Gel,3683
+2023-12-23,Paracetamol,4293
+2023-12-23,Cough Syrup,3866
+2023-12-23,Vitamins,3151
+2023-12-23,Antibiotics,4724
+2023-12-23,Pain Relief Gel,3334
+2023-12-24,Paracetamol,4485
+2023-12-24,Cough Syrup,4118
+2023-12-24,Vitamins,2886
+2023-12-24,Antibiotics,4803
+2023-12-24,Pain Relief Gel,3145
+2023-12-25,Paracetamol,5072
+2023-12-25,Cough Syrup,4486
+2023-12-25,Vitamins,3526
+2023-12-25,Antibiotics,5914
+2023-12-25,Pain Relief Gel,3790
+2023-12-26,Paracetamol,5122
+2023-12-26,Cough Syrup,4233
+2023-12-26,Vitamins,3785
+2023-12-26,Antibiotics,5962
+2023-12-26,Pain Relief Gel,3940
+2023-12-27,Paracetamol,4946
+2023-12-27,Cough Syrup,4587
+2023-12-27,Vitamins,3746
+2023-12-27,Antibiotics,5959
+2023-12-27,Pain Relief Gel,4150
+2023-12-28,Paracetamol,5219
+2023-12-28,Cough Syrup,4458
+2023-12-28,Vitamins,3671
+2023-12-28,Antibiotics,5759
+2023-12-28,Pain Relief Gel,3843
+2023-12-29,Paracetamol,5460
+2023-12-29,Cough Syrup,4438
+2023-12-29,Vitamins,3433
+2023-12-29,Antibiotics,5872
+2023-12-29,Pain Relief Gel,3973
+2023-12-30,Paracetamol,4670
+2023-12-30,Cough Syrup,3876
+2023-12-30,Vitamins,3302
+2023-12-30,Antibiotics,4853
+2023-12-30,Pain Relief Gel,3567
+2023-12-31,Paracetamol,4742
+2023-12-31,Cough Syrup,4151
+2023-12-31,Vitamins,3230
+2023-12-31,Antibiotics,5202
+2023-12-31,Pain Relief Gel,3611
+2024-01-01,Paracetamol,4647
+2024-01-01,Cough Syrup,3886
+2024-01-01,Vitamins,2934
+2024-01-01,Antibiotics,5168
+2024-01-01,Pain Relief Gel,3274
+2024-01-02,Paracetamol,4536
+2024-01-02,Cough Syrup,3765
+2024-01-02,Vitamins,3211
+2024-01-02,Antibiotics,5374
+2024-01-02,Pain Relief Gel,3370
+2024-01-03,Paracetamol,4408
+2024-01-03,Cough Syrup,3638
+2024-01-03,Vitamins,2991
+2024-01-03,Antibiotics,4439
+2024-01-03,Pain Relief Gel,3173
+2024-01-04,Paracetamol,4521
+2024-01-04,Cough Syrup,3780
+2024-01-04,Vitamins,3010
+2024-01-04,Antibiotics,5131
+2024-01-04,Pain Relief Gel,3452
+2024-01-05,Paracetamol,4492
+2024-01-05,Cough Syrup,3937
+2024-01-05,Vitamins,3064
+2024-01-05,Antibiotics,4996
+2024-01-05,Pain Relief Gel,3210
+2024-01-06,Paracetamol,4078
+2024-01-06,Cough Syrup,3512
+2024-01-06,Vitamins,2664
+2024-01-06,Antibiotics,4288
+2024-01-06,Pain Relief Gel,2968
+2024-01-07,Paracetamol,3914
+2024-01-07,Cough Syrup,3540
+2024-01-07,Vitamins,2983
+2024-01-07,Antibiotics,4444
+2024-01-07,Pain Relief Gel,3026
+2024-01-08,Paracetamol,4727
+2024-01-08,Cough Syrup,4028
+2024-01-08,Vitamins,3360
+2024-01-08,Antibiotics,5337
+2024-01-08,Pain Relief Gel,3211
+2024-01-09,Paracetamol,4543
+2024-01-09,Cough Syrup,4106
+2024-01-09,Vitamins,3287
+2024-01-09,Antibiotics,5342
+2024-01-09,Pain Relief Gel,3614
+2024-01-10,Paracetamol,4909
+2024-01-10,Cough Syrup,4116
+2024-01-10,Vitamins,3415
+2024-01-10,Antibiotics,5162
+2024-01-10,Pain Relief Gel,3123
+2024-01-11,Paracetamol,4667
+2024-01-11,Cough Syrup,4215
+2024-01-11,Vitamins,3096
+2024-01-11,Antibiotics,5448
+2024-01-11,Pain Relief Gel,3422
+2024-01-12,Paracetamol,4260
+2024-01-12,Cough Syrup,4519
+2024-01-12,Vitamins,3231
+2024-01-12,Antibiotics,4800
+2024-01-12,Pain Relief Gel,3595
+2024-01-13,Paracetamol,4333
+2024-01-13,Cough Syrup,3472
+2024-01-13,Vitamins,2895
+2024-01-13,Antibiotics,4780
+2024-01-13,Pain Relief Gel,2999
+2024-01-14,Paracetamol,3972
+2024-01-14,Cough Syrup,3649
+2024-01-14,Vitamins,2835
+2024-01-14,Antibiotics,4379
+2024-01-14,Pain Relief Gel,2999
+2024-01-15,Paracetamol,4395
+2024-01-15,Cough Syrup,4193
+2024-01-15,Vitamins,3387
+2024-01-15,Antibiotics,5310
+2024-01-15,Pain Relief Gel,3547
+2024-01-16,Paracetamol,4644
+2024-01-16,Cough Syrup,4150
+2024-01-16,Vitamins,3041
+2024-01-16,Antibiotics,5253
+2024-01-16,Pain Relief Gel,3637
+2024-01-17,Paracetamol,4695
+2024-01-17,Cough Syrup,3893
+2024-01-17,Vitamins,3410
+2024-01-17,Antibiotics,5034
+2024-01-17,Pain Relief Gel,3500
+2024-01-18,Paracetamol,4841
+2024-01-18,Cough Syrup,4015
+2024-01-18,Vitamins,3234
+2024-01-18,Antibiotics,5029
+2024-01-18,Pain Relief Gel,3397
+2024-01-19,Paracetamol,4518
+2024-01-19,Cough Syrup,4199
+2024-01-19,Vitamins,3204
+2024-01-19,Antibiotics,5366
+2024-01-19,Pain Relief Gel,3853
+2024-01-20,Paracetamol,4169
+2024-01-20,Cough Syrup,3691
+2024-01-20,Vitamins,3182
+2024-01-20,Antibiotics,4825
+2024-01-20,Pain Relief Gel,2945
+2024-01-21,Paracetamol,4068
+2024-01-21,Cough Syrup,3837
+2024-01-21,Vitamins,2583
+2024-01-21,Antibiotics,4524
+2024-01-21,Pain Relief Gel,3084
+2024-01-22,Paracetamol,4572
+2024-01-22,Cough Syrup,4242
+2024-01-22,Vitamins,3565
+2024-01-22,Antibiotics,4964
+2024-01-22,Pain Relief Gel,3892
+2024-01-23,Paracetamol,4901
+2024-01-23,Cough Syrup,4564
+2024-01-23,Vitamins,3575
+2024-01-23,Antibiotics,5501
+2024-01-23,Pain Relief Gel,3529
+2024-01-24,Paracetamol,4829
+2024-01-24,Cough Syrup,4122
+2024-01-24,Vitamins,3306
+2024-01-24,Antibiotics,5233
+2024-01-24,Pain Relief Gel,3825
+2024-01-25,Paracetamol,5208
+2024-01-25,Cough Syrup,4310
+2024-01-25,Vitamins,3180
+2024-01-25,Antibiotics,5555
+2024-01-25,Pain Relief Gel,3580
+2024-01-26,Paracetamol,5121
+2024-01-26,Cough Syrup,4232
+2024-01-26,Vitamins,3419
+2024-01-26,Antibiotics,5616
+2024-01-26,Pain Relief Gel,3433
+2024-01-27,Paracetamol,4135
+2024-01-27,Cough Syrup,3344
+2024-01-27,Vitamins,3039
+2024-01-27,Antibiotics,4674
+2024-01-27,Pain Relief Gel,3249
+2024-01-28,Paracetamol,3992
+2024-01-28,Cough Syrup,3931
+2024-01-28,Vitamins,2927
+2024-01-28,Antibiotics,4803
+2024-01-28,Pain Relief Gel,3491
+2024-01-29,Paracetamol,5150
+2024-01-29,Cough Syrup,4637
+2024-01-29,Vitamins,3457
+2024-01-29,Antibiotics,5536
+2024-01-29,Pain Relief Gel,3885
+2024-01-30,Paracetamol,5097
+2024-01-30,Cough Syrup,4634
+2024-01-30,Vitamins,3501
+2024-01-30,Antibiotics,5579
+2024-01-30,Pain Relief Gel,3901
+2024-01-31,Paracetamol,4933
+2024-01-31,Cough Syrup,4413
+2024-01-31,Vitamins,3709
+2024-01-31,Antibiotics,5902
+2024-01-31,Pain Relief Gel,3602
+2024-02-01,Paracetamol,4793
+2024-02-01,Cough Syrup,4557
+2024-02-01,Vitamins,3585
+2024-02-01,Antibiotics,5841
+2024-02-01,Pain Relief Gel,3697
+2024-02-02,Paracetamol,5219
+2024-02-02,Cough Syrup,4295
+2024-02-02,Vitamins,3602
+2024-02-02,Antibiotics,5766
+2024-02-02,Pain Relief Gel,3676
+2024-02-03,Paracetamol,4287
+2024-02-03,Cough Syrup,3537
+2024-02-03,Vitamins,2954
+2024-02-03,Antibiotics,4708
+2024-02-03,Pain Relief Gel,3311
+2024-02-04,Paracetamol,4579
+2024-02-04,Cough Syrup,3758
+2024-02-04,Vitamins,3146
+2024-02-04,Antibiotics,4757
+2024-02-04,Pain Relief Gel,3217
+2024-02-05,Paracetamol,5352
+2024-02-05,Cough Syrup,4701
+2024-02-05,Vitamins,3604
+2024-02-05,Antibiotics,5915
+2024-02-05,Pain Relief Gel,3958
+2024-02-06,Paracetamol,4970
+2024-02-06,Cough Syrup,4534
+2024-02-06,Vitamins,3688
+2024-02-06,Antibiotics,5870
+2024-02-06,Pain Relief Gel,3694
+2024-02-07,Paracetamol,5200
+2024-02-07,Cough Syrup,4552
+2024-02-07,Vitamins,3434
+2024-02-07,Antibiotics,5750
+2024-02-07,Pain Relief Gel,3410
+2024-02-08,Paracetamol,5348
+2024-02-08,Cough Syrup,4890
+2024-02-08,Vitamins,3447
+2024-02-08,Antibiotics,5790
+2024-02-08,Pain Relief Gel,3977
+2024-02-09,Paracetamol,5438
+2024-02-09,Cough Syrup,4634
+2024-02-09,Vitamins,3676
+2024-02-09,Antibiotics,5839
+2024-02-09,Pain Relief Gel,4099
+2024-02-10,Paracetamol,4439
+2024-02-10,Cough Syrup,3783
+2024-02-10,Vitamins,2998
+2024-02-10,Antibiotics,5117
+2024-02-10,Pain Relief Gel,3510
+2024-02-11,Paracetamol,4603
+2024-02-11,Cough Syrup,4035
+2024-02-11,Vitamins,3090
+2024-02-11,Antibiotics,5026
+2024-02-11,Pain Relief Gel,3452
+2024-02-12,Paracetamol,5444
+2024-02-12,Cough Syrup,4740
+2024-02-12,Vitamins,3883
+2024-02-12,Antibiotics,6291
+2024-02-12,Pain Relief Gel,4028
+2024-02-13,Paracetamol,5014
+2024-02-13,Cough Syrup,4683
+2024-02-13,Vitamins,3730
+2024-02-13,Antibiotics,5815
+2024-02-13,Pain Relief Gel,4113
+2024-02-14,Paracetamol,5457
+2024-02-14,Cough Syrup,4527
+2024-02-14,Vitamins,3500
+2024-02-14,Antibiotics,6025
+2024-02-14,Pain Relief Gel,3996
+2024-02-15,Paracetamol,5371
+2024-02-15,Cough Syrup,4824
+2024-02-15,Vitamins,3769
+2024-02-15,Antibiotics,5955
+2024-02-15,Pain Relief Gel,3901
+2024-02-16,Paracetamol,5176
+2024-02-16,Cough Syrup,4847
+2024-02-16,Vitamins,3682
+2024-02-16,Antibiotics,5996
+2024-02-16,Pain Relief Gel,4035
+2024-02-17,Paracetamol,4628
+2024-02-17,Cough Syrup,4310
+2024-02-17,Vitamins,3348
+2024-02-17,Antibiotics,5110
+2024-02-17,Pain Relief Gel,3654
+2024-02-18,Paracetamol,4492
+2024-02-18,Cough Syrup,4038
+2024-02-18,Vitamins,3265
+2024-02-18,Antibiotics,5398
+2024-02-18,Pain Relief Gel,3620
+2024-02-19,Paracetamol,5399
+2024-02-19,Cough Syrup,4710
+2024-02-19,Vitamins,3764
+2024-02-19,Antibiotics,5943
+2024-02-19,Pain Relief Gel,4215
+2024-02-20,Paracetamol,5360
+2024-02-20,Cough Syrup,4561
+2024-02-20,Vitamins,3637
+2024-02-20,Antibiotics,6188
+2024-02-20,Pain Relief Gel,3908
+2024-02-21,Paracetamol,5658
+2024-02-21,Cough Syrup,4913
+2024-02-21,Vitamins,4144
+2024-02-21,Antibiotics,6206
+2024-02-21,Pain Relief Gel,4097
+2024-02-22,Paracetamol,5306
+2024-02-22,Cough Syrup,5000
+2024-02-22,Vitamins,3825
+2024-02-22,Antibiotics,5817
+2024-02-22,Pain Relief Gel,3852
+2024-02-23,Paracetamol,5384
+2024-02-23,Cough Syrup,4425
+2024-02-23,Vitamins,3703
+2024-02-23,Antibiotics,6141
+2024-02-23,Pain Relief Gel,3761
+2024-02-24,Paracetamol,4939
+2024-02-24,Cough Syrup,4041
+2024-02-24,Vitamins,3349
+2024-02-24,Antibiotics,5479
+2024-02-24,Pain Relief Gel,3653
+2024-02-25,Paracetamol,4947
+2024-02-25,Cough Syrup,4142
+2024-02-25,Vitamins,3145
+2024-02-25,Antibiotics,5212
+2024-02-25,Pain Relief Gel,3694
+2024-02-26,Paracetamol,5640
+2024-02-26,Cough Syrup,4842
+2024-02-26,Vitamins,4091
+2024-02-26,Antibiotics,5943
+2024-02-26,Pain Relief Gel,3943
+2024-02-27,Paracetamol,5600
+2024-02-27,Cough Syrup,4729
+2024-02-27,Vitamins,3978
+2024-02-27,Antibiotics,6494
+2024-02-27,Pain Relief Gel,3843
+2024-02-28,Paracetamol,5667
+2024-02-28,Cough Syrup,4872
+2024-02-28,Vitamins,3965
+2024-02-28,Antibiotics,6207
+2024-02-28,Pain Relief Gel,3961
+2024-02-29,Paracetamol,6003
+2024-02-29,Cough Syrup,5045
+2024-02-29,Vitamins,3835
+2024-02-29,Antibiotics,6059
+2024-02-29,Pain Relief Gel,4278
+2024-03-01,Paracetamol,5431
+2024-03-01,Cough Syrup,5068
+2024-03-01,Vitamins,3758
+2024-03-01,Antibiotics,5962
+2024-03-01,Pain Relief Gel,4043
+2024-03-02,Paracetamol,4877
+2024-03-02,Cough Syrup,4080
+2024-03-02,Vitamins,3250
+2024-03-02,Antibiotics,5508
+2024-03-02,Pain Relief Gel,3641
+2024-03-03,Paracetamol,5093
+2024-03-03,Cough Syrup,4135
+2024-03-03,Vitamins,3403
+2024-03-03,Antibiotics,5641
+2024-03-03,Pain Relief Gel,3667
+2024-03-04,Paracetamol,5086
+2024-03-04,Cough Syrup,4711
+2024-03-04,Vitamins,3985
+2024-03-04,Antibiotics,5930
+2024-03-04,Pain Relief Gel,3948
+2024-03-05,Paracetamol,5360
+2024-03-05,Cough Syrup,4821
+2024-03-05,Vitamins,3840
+2024-03-05,Antibiotics,6442
+2024-03-05,Pain Relief Gel,4175
+2024-03-06,Paracetamol,5813
+2024-03-06,Cough Syrup,5078
+2024-03-06,Vitamins,3839
+2024-03-06,Antibiotics,5976
+2024-03-06,Pain Relief Gel,4356
+2024-03-07,Paracetamol,5583
+2024-03-07,Cough Syrup,4710
+2024-03-07,Vitamins,4022
+2024-03-07,Antibiotics,6115
+2024-03-07,Pain Relief Gel,4365
+2024-03-08,Paracetamol,5624
+2024-03-08,Cough Syrup,5016
+2024-03-08,Vitamins,3845
+2024-03-08,Antibiotics,5924
+2024-03-08,Pain Relief Gel,4381
+2024-03-09,Paracetamol,4889
+2024-03-09,Cough Syrup,4269
+2024-03-09,Vitamins,3537
+2024-03-09,Antibiotics,5662
+2024-03-09,Pain Relief Gel,3648
+2024-03-10,Paracetamol,4864
+2024-03-10,Cough Syrup,4457
+2024-03-10,Vitamins,3422
+2024-03-10,Antibiotics,5668
+2024-03-10,Pain Relief Gel,3505
+2024-03-11,Paracetamol,5994
+2024-03-11,Cough Syrup,4755
+2024-03-11,Vitamins,3828
+2024-03-11,Antibiotics,6411
+2024-03-11,Pain Relief Gel,4233
+2024-03-12,Paracetamol,5457
+2024-03-12,Cough Syrup,5019
+2024-03-12,Vitamins,3845
+2024-03-12,Antibiotics,6966
+2024-03-12,Pain Relief Gel,4684
+2024-03-13,Paracetamol,5566
+2024-03-13,Cough Syrup,5035
+2024-03-13,Vitamins,3845
+2024-03-13,Antibiotics,6580
+2024-03-13,Pain Relief Gel,4229
+2024-03-14,Paracetamol,5656
+2024-03-14,Cough Syrup,4916
+2024-03-14,Vitamins,3982
+2024-03-14,Antibiotics,6441
+2024-03-14,Pain Relief Gel,4401
+2024-03-15,Paracetamol,5835
+2024-03-15,Cough Syrup,4535
+2024-03-15,Vitamins,4081
+2024-03-15,Antibiotics,6636
+2024-03-15,Pain Relief Gel,4440
+2024-03-16,Paracetamol,5459
+2024-03-16,Cough Syrup,4563
+2024-03-16,Vitamins,3404
+2024-03-16,Antibiotics,5695
+2024-03-16,Pain Relief Gel,3921
+2024-03-17,Paracetamol,5224
+2024-03-17,Cough Syrup,4202
+2024-03-17,Vitamins,3431
+2024-03-17,Antibiotics,5308
+2024-03-17,Pain Relief Gel,3580
+2024-03-18,Paracetamol,5898
+2024-03-18,Cough Syrup,4894
+2024-03-18,Vitamins,4043
+2024-03-18,Antibiotics,6371
+2024-03-18,Pain Relief Gel,4520
+2024-03-19,Paracetamol,5630
+2024-03-19,Cough Syrup,5204
+2024-03-19,Vitamins,4264
+2024-03-19,Antibiotics,6926
+2024-03-19,Pain Relief Gel,4071
+2024-03-20,Paracetamol,5713
+2024-03-20,Cough Syrup,5026
+2024-03-20,Vitamins,4419
+2024-03-20,Antibiotics,6082
+2024-03-20,Pain Relief Gel,4511
+2024-03-21,Paracetamol,5545
+2024-03-21,Cough Syrup,4614
+2024-03-21,Vitamins,3952
+2024-03-21,Antibiotics,6230
+2024-03-21,Pain Relief Gel,4225
+2024-03-22,Paracetamol,5933
+2024-03-22,Cough Syrup,4675
+2024-03-22,Vitamins,4029
+2024-03-22,Antibiotics,6186
+2024-03-22,Pain Relief Gel,4344
+2024-03-23,Paracetamol,4804
+2024-03-23,Cough Syrup,4212
+2024-03-23,Vitamins,3233
+2024-03-23,Antibiotics,5281
+2024-03-23,Pain Relief Gel,3761
+2024-03-24,Paracetamol,4956
+2024-03-24,Cough Syrup,4594
+2024-03-24,Vitamins,3647
+2024-03-24,Antibiotics,5733
+2024-03-24,Pain Relief Gel,3790
+2024-03-25,Paracetamol,6079
+2024-03-25,Cough Syrup,5030
+2024-03-25,Vitamins,3876
+2024-03-25,Antibiotics,6090
+2024-03-25,Pain Relief Gel,4294
+2024-03-26,Paracetamol,5612
+2024-03-26,Cough Syrup,5297
+2024-03-26,Vitamins,4031
+2024-03-26,Antibiotics,6435
+2024-03-26,Pain Relief Gel,4007
+2024-03-27,Paracetamol,5752
+2024-03-27,Cough Syrup,5185
+2024-03-27,Vitamins,4273
+2024-03-27,Antibiotics,6820
+2024-03-27,Pain Relief Gel,4551
+2024-03-28,Paracetamol,5626
+2024-03-28,Cough Syrup,5446
+2024-03-28,Vitamins,4337
+2024-03-28,Antibiotics,6512
+2024-03-28,Pain Relief Gel,4213
+2024-03-29,Paracetamol,5701
+2024-03-29,Cough Syrup,5309
+2024-03-29,Vitamins,4015
+2024-03-29,Antibiotics,6482
+2024-03-29,Pain Relief Gel,4400
+2024-03-30,Paracetamol,4978
+2024-03-30,Cough Syrup,4315
+2024-03-30,Vitamins,3547
+2024-03-30,Antibiotics,5738
+2024-03-30,Pain Relief Gel,3677
+2024-03-31,Paracetamol,4973
+2024-03-31,Cough Syrup,4287
+2024-03-31,Vitamins,3654
+2024-03-31,Antibiotics,5752
+2024-03-31,Pain Relief Gel,3927
+2024-04-01,Paracetamol,5720
+2024-04-01,Cough Syrup,5005
+2024-04-01,Vitamins,4035
+2024-04-01,Antibiotics,6589
+2024-04-01,Pain Relief Gel,4280
+2024-04-02,Paracetamol,5993
+2024-04-02,Cough Syrup,5207
+2024-04-02,Vitamins,4048
+2024-04-02,Antibiotics,6445
+2024-04-02,Pain Relief Gel,4504
+2024-04-03,Paracetamol,5801
+2024-04-03,Cough Syrup,5106
+2024-04-03,Vitamins,4140
+2024-04-03,Antibiotics,6029
+2024-04-03,Pain Relief Gel,4555
+2024-04-04,Paracetamol,6011
+2024-04-04,Cough Syrup,5270
+2024-04-04,Vitamins,4122
+2024-04-04,Antibiotics,6632
+2024-04-04,Pain Relief Gel,4509
+2024-04-05,Paracetamol,6156
+2024-04-05,Cough Syrup,5066
+2024-04-05,Vitamins,3976
+2024-04-05,Antibiotics,6624
+2024-04-05,Pain Relief Gel,4239
+2024-04-06,Paracetamol,5124
+2024-04-06,Cough Syrup,4495
+2024-04-06,Vitamins,3439
+2024-04-06,Antibiotics,5749
+2024-04-06,Pain Relief Gel,4035
+2024-04-07,Paracetamol,4948
+2024-04-07,Cough Syrup,4446
+2024-04-07,Vitamins,3413
+2024-04-07,Antibiotics,6093
+2024-04-07,Pain Relief Gel,3887
+2024-04-08,Paracetamol,5537
+2024-04-08,Cough Syrup,5261
+2024-04-08,Vitamins,3887
+2024-04-08,Antibiotics,6524
+2024-04-08,Pain Relief Gel,4093
+2024-04-09,Paracetamol,5985
+2024-04-09,Cough Syrup,5111
+2024-04-09,Vitamins,3915
+2024-04-09,Antibiotics,6965
+2024-04-09,Pain Relief Gel,4329
+2024-04-10,Paracetamol,6194
+2024-04-10,Cough Syrup,4636
+2024-04-10,Vitamins,3778
+2024-04-10,Antibiotics,6327
+2024-04-10,Pain Relief Gel,4398
+2024-04-11,Paracetamol,5725
+2024-04-11,Cough Syrup,4999
+2024-04-11,Vitamins,4003
+2024-04-11,Antibiotics,6332
+2024-04-11,Pain Relief Gel,4444
+2024-04-12,Paracetamol,5693
+2024-04-12,Cough Syrup,5204
+2024-04-12,Vitamins,4086
+2024-04-12,Antibiotics,6558
+2024-04-12,Pain Relief Gel,4212
+2024-04-13,Paracetamol,4779
+2024-04-13,Cough Syrup,4267
+2024-04-13,Vitamins,3337
+2024-04-13,Antibiotics,5641
+2024-04-13,Pain Relief Gel,3699
+2024-04-14,Paracetamol,5117
+2024-04-14,Cough Syrup,4125
+2024-04-14,Vitamins,3620
+2024-04-14,Antibiotics,5505
+2024-04-14,Pain Relief Gel,4031
+2024-04-15,Paracetamol,5706
+2024-04-15,Cough Syrup,5164
+2024-04-15,Vitamins,4035
+2024-04-15,Antibiotics,6635
+2024-04-15,Pain Relief Gel,4438
+2024-04-16,Paracetamol,6026
+2024-04-16,Cough Syrup,4961
+2024-04-16,Vitamins,4060
+2024-04-16,Antibiotics,6411
+2024-04-16,Pain Relief Gel,4399
+2024-04-17,Paracetamol,6282
+2024-04-17,Cough Syrup,5321
+2024-04-17,Vitamins,3854
+2024-04-17,Antibiotics,6122
+2024-04-17,Pain Relief Gel,4299
+2024-04-18,Paracetamol,5686
+2024-04-18,Cough Syrup,5286
+2024-04-18,Vitamins,3965
+2024-04-18,Antibiotics,6612
+2024-04-18,Pain Relief Gel,4194
+2024-04-19,Paracetamol,5720
+2024-04-19,Cough Syrup,5094
+2024-04-19,Vitamins,4035
+2024-04-19,Antibiotics,6197
+2024-04-19,Pain Relief Gel,4101
+2024-04-20,Paracetamol,5057
+2024-04-20,Cough Syrup,4062
+2024-04-20,Vitamins,3369
+2024-04-20,Antibiotics,5392
+2024-04-20,Pain Relief Gel,3485
+2024-04-21,Paracetamol,5446
+2024-04-21,Cough Syrup,4692
+2024-04-21,Vitamins,3283
+2024-04-21,Antibiotics,5595
+2024-04-21,Pain Relief Gel,3764
+2024-04-22,Paracetamol,6232
+2024-04-22,Cough Syrup,5184
+2024-04-22,Vitamins,4277
+2024-04-22,Antibiotics,6473
+2024-04-22,Pain Relief Gel,4237
+2024-04-23,Paracetamol,5497
+2024-04-23,Cough Syrup,5139
+2024-04-23,Vitamins,3846
+2024-04-23,Antibiotics,6122
+2024-04-23,Pain Relief Gel,4015
+2024-04-24,Paracetamol,6164
+2024-04-24,Cough Syrup,4980
+2024-04-24,Vitamins,4017
+2024-04-24,Antibiotics,6352
+2024-04-24,Pain Relief Gel,4131
+2024-04-25,Paracetamol,5303
+2024-04-25,Cough Syrup,5157
+2024-04-25,Vitamins,4097
+2024-04-25,Antibiotics,6489
+2024-04-25,Pain Relief Gel,4540
+2024-04-26,Paracetamol,5956
+2024-04-26,Cough Syrup,5064
+2024-04-26,Vitamins,4147
+2024-04-26,Antibiotics,6423
+2024-04-26,Pain Relief Gel,4350
+2024-04-27,Paracetamol,4872
+2024-04-27,Cough Syrup,4100
+2024-04-27,Vitamins,3377
+2024-04-27,Antibiotics,5814
+2024-04-27,Pain Relief Gel,3833
+2024-04-28,Paracetamol,4943
+2024-04-28,Cough Syrup,4119
+2024-04-28,Vitamins,3204
+2024-04-28,Antibiotics,5840
+2024-04-28,Pain Relief Gel,3573
+2024-04-29,Paracetamol,5366
+2024-04-29,Cough Syrup,4971
+2024-04-29,Vitamins,4031
+2024-04-29,Antibiotics,5983
+2024-04-29,Pain Relief Gel,4272
+2024-04-30,Paracetamol,5550
+2024-04-30,Cough Syrup,5108
+2024-04-30,Vitamins,3998
+2024-04-30,Antibiotics,6268
+2024-04-30,Pain Relief Gel,4332
+2024-05-01,Paracetamol,5584
+2024-05-01,Cough Syrup,4667
+2024-05-01,Vitamins,4193
+2024-05-01,Antibiotics,6248
+2024-05-01,Pain Relief Gel,4395
+2024-05-02,Paracetamol,5861
+2024-05-02,Cough Syrup,4911
+2024-05-02,Vitamins,4132
+2024-05-02,Antibiotics,6043
+2024-05-02,Pain Relief Gel,4601
+2024-05-03,Paracetamol,5790
+2024-05-03,Cough Syrup,5116
+2024-05-03,Vitamins,4010
+2024-05-03,Antibiotics,6737
+2024-05-03,Pain Relief Gel,4056
+2024-05-04,Paracetamol,4900
+2024-05-04,Cough Syrup,4190
+2024-05-04,Vitamins,3304
+2024-05-04,Antibiotics,5587
+2024-05-04,Pain Relief Gel,3655
+2024-05-05,Paracetamol,4967
+2024-05-05,Cough Syrup,4402
+2024-05-05,Vitamins,3426
+2024-05-05,Antibiotics,5350
+2024-05-05,Pain Relief Gel,3838
+2024-05-06,Paracetamol,5823
+2024-05-06,Cough Syrup,5062
+2024-05-06,Vitamins,3950
+2024-05-06,Antibiotics,6532
+2024-05-06,Pain Relief Gel,3980
+2024-05-07,Paracetamol,5652
+2024-05-07,Cough Syrup,4915
+2024-05-07,Vitamins,3780
+2024-05-07,Antibiotics,6393
+2024-05-07,Pain Relief Gel,4091
+2024-05-08,Paracetamol,5648
+2024-05-08,Cough Syrup,5194
+2024-05-08,Vitamins,3848
+2024-05-08,Antibiotics,6339
+2024-05-08,Pain Relief Gel,4133
+2024-05-09,Paracetamol,5629
+2024-05-09,Cough Syrup,5028
+2024-05-09,Vitamins,4011
+2024-05-09,Antibiotics,6295
+2024-05-09,Pain Relief Gel,4293
+2024-05-10,Paracetamol,5582
+2024-05-10,Cough Syrup,5062
+2024-05-10,Vitamins,3800
+2024-05-10,Antibiotics,6515
+2024-05-10,Pain Relief Gel,4105
+2024-05-11,Paracetamol,4855
+2024-05-11,Cough Syrup,4120
+2024-05-11,Vitamins,3535
+2024-05-11,Antibiotics,5271
+2024-05-11,Pain Relief Gel,3747
+2024-05-12,Paracetamol,5068
+2024-05-12,Cough Syrup,4194
+2024-05-12,Vitamins,3395
+2024-05-12,Antibiotics,5304
+2024-05-12,Pain Relief Gel,3676
+2024-05-13,Paracetamol,5307
+2024-05-13,Cough Syrup,4866
+2024-05-13,Vitamins,3696
+2024-05-13,Antibiotics,6321
+2024-05-13,Pain Relief Gel,4241
+2024-05-14,Paracetamol,5568
+2024-05-14,Cough Syrup,4641
+2024-05-14,Vitamins,4075
+2024-05-14,Antibiotics,6568
+2024-05-14,Pain Relief Gel,4180
+2024-05-15,Paracetamol,5865
+2024-05-15,Cough Syrup,4855
+2024-05-15,Vitamins,3877
+2024-05-15,Antibiotics,6307
+2024-05-15,Pain Relief Gel,4173
+2024-05-16,Paracetamol,5667
+2024-05-16,Cough Syrup,4933
+2024-05-16,Vitamins,3683
+2024-05-16,Antibiotics,6284
+2024-05-16,Pain Relief Gel,4445
+2024-05-17,Paracetamol,5399
+2024-05-17,Cough Syrup,4454
+2024-05-17,Vitamins,3829
+2024-05-17,Antibiotics,6690
+2024-05-17,Pain Relief Gel,3893
+2024-05-18,Paracetamol,4635
+2024-05-18,Cough Syrup,4441
+2024-05-18,Vitamins,3420
+2024-05-18,Antibiotics,5133
+2024-05-18,Pain Relief Gel,3668
+2024-05-19,Paracetamol,4766
+2024-05-19,Cough Syrup,4375
+2024-05-19,Vitamins,3515
+2024-05-19,Antibiotics,5214
+2024-05-19,Pain Relief Gel,3650
+2024-05-20,Paracetamol,5413
+2024-05-20,Cough Syrup,4898
+2024-05-20,Vitamins,3980
+2024-05-20,Antibiotics,6133
+2024-05-20,Pain Relief Gel,4329
+2024-05-21,Paracetamol,5259
+2024-05-21,Cough Syrup,5311
+2024-05-21,Vitamins,3581
+2024-05-21,Antibiotics,6370
+2024-05-21,Pain Relief Gel,4080
+2024-05-22,Paracetamol,5663
+2024-05-22,Cough Syrup,5008
+2024-05-22,Vitamins,3474
+2024-05-22,Antibiotics,6442
+2024-05-22,Pain Relief Gel,4320
+2024-05-23,Paracetamol,5602
+2024-05-23,Cough Syrup,4636
+2024-05-23,Vitamins,4049
+2024-05-23,Antibiotics,5986
+2024-05-23,Pain Relief Gel,3862
+2024-05-24,Paracetamol,5600
+2024-05-24,Cough Syrup,4772
+2024-05-24,Vitamins,3844
+2024-05-24,Antibiotics,6450
+2024-05-24,Pain Relief Gel,4211
+2024-05-25,Paracetamol,4650
+2024-05-25,Cough Syrup,4131
+2024-05-25,Vitamins,3385
+2024-05-25,Antibiotics,5620
+2024-05-25,Pain Relief Gel,3488
+2024-05-26,Paracetamol,4648
+2024-05-26,Cough Syrup,4238
+2024-05-26,Vitamins,3318
+2024-05-26,Antibiotics,5039
+2024-05-26,Pain Relief Gel,3239
+2024-05-27,Paracetamol,5801
+2024-05-27,Cough Syrup,4644
+2024-05-27,Vitamins,3810
+2024-05-27,Antibiotics,6443
+2024-05-27,Pain Relief Gel,3947
+2024-05-28,Paracetamol,5599
+2024-05-28,Cough Syrup,4509
+2024-05-28,Vitamins,4095
+2024-05-28,Antibiotics,6078
+2024-05-28,Pain Relief Gel,3985
+2024-05-29,Paracetamol,5451
+2024-05-29,Cough Syrup,4769
+2024-05-29,Vitamins,3903
+2024-05-29,Antibiotics,5809
+2024-05-29,Pain Relief Gel,3652
+2024-05-30,Paracetamol,5927
+2024-05-30,Cough Syrup,4617
+2024-05-30,Vitamins,3802
+2024-05-30,Antibiotics,5836
+2024-05-30,Pain Relief Gel,4004
+2024-05-31,Paracetamol,5561
+2024-05-31,Cough Syrup,4644
+2024-05-31,Vitamins,3730
+2024-05-31,Antibiotics,6312
+2024-05-31,Pain Relief Gel,4169
+2024-06-01,Paracetamol,4461
+2024-06-01,Cough Syrup,3903
+2024-06-01,Vitamins,3106
+2024-06-01,Antibiotics,5179
+2024-06-01,Pain Relief Gel,3462
+2024-06-02,Paracetamol,4514
+2024-06-02,Cough Syrup,4025
+2024-06-02,Vitamins,3266
+2024-06-02,Antibiotics,5251
+2024-06-02,Pain Relief Gel,3606
+2024-06-03,Paracetamol,5519
+2024-06-03,Cough Syrup,4591
+2024-06-03,Vitamins,3642
+2024-06-03,Antibiotics,6262
+2024-06-03,Pain Relief Gel,3842
+2024-06-04,Paracetamol,5102
+2024-06-04,Cough Syrup,4672
+2024-06-04,Vitamins,3814
+2024-06-04,Antibiotics,6050
+2024-06-04,Pain Relief Gel,3997
+2024-06-05,Paracetamol,5461
+2024-06-05,Cough Syrup,4773
+2024-06-05,Vitamins,3573
+2024-06-05,Antibiotics,5481
+2024-06-05,Pain Relief Gel,4390
+2024-06-06,Paracetamol,5417
+2024-06-06,Cough Syrup,4857
+2024-06-06,Vitamins,3656
+2024-06-06,Antibiotics,5813
+2024-06-06,Pain Relief Gel,3708
+2024-06-07,Paracetamol,4933
+2024-06-07,Cough Syrup,4570
+2024-06-07,Vitamins,3673
+2024-06-07,Antibiotics,5971
+2024-06-07,Pain Relief Gel,3997
+2024-06-08,Paracetamol,4662
+2024-06-08,Cough Syrup,4174
+2024-06-08,Vitamins,3308
+2024-06-08,Antibiotics,4827
+2024-06-08,Pain Relief Gel,3442
+2024-06-09,Paracetamol,4534
+2024-06-09,Cough Syrup,3817
+2024-06-09,Vitamins,3307
+2024-06-09,Antibiotics,4875
+2024-06-09,Pain Relief Gel,3448
+2024-06-10,Paracetamol,5423
+2024-06-10,Cough Syrup,4656
+2024-06-10,Vitamins,3703
+2024-06-10,Antibiotics,5903
+2024-06-10,Pain Relief Gel,3943
+2024-06-11,Paracetamol,5345
+2024-06-11,Cough Syrup,4475
+2024-06-11,Vitamins,3504
+2024-06-11,Antibiotics,5509
+2024-06-11,Pain Relief Gel,3849
+2024-06-12,Paracetamol,4971
+2024-06-12,Cough Syrup,4525
+2024-06-12,Vitamins,3560
+2024-06-12,Antibiotics,5707
+2024-06-12,Pain Relief Gel,3819
+2024-06-13,Paracetamol,5206
+2024-06-13,Cough Syrup,4474
+2024-06-13,Vitamins,3602
+2024-06-13,Antibiotics,6048
+2024-06-13,Pain Relief Gel,3802
+2024-06-14,Paracetamol,4972
+2024-06-14,Cough Syrup,4199
+2024-06-14,Vitamins,3647
+2024-06-14,Antibiotics,5515
+2024-06-14,Pain Relief Gel,3671
+2024-06-15,Paracetamol,4468
+2024-06-15,Cough Syrup,3780
+2024-06-15,Vitamins,3070
+2024-06-15,Antibiotics,4831
+2024-06-15,Pain Relief Gel,3213
+2024-06-16,Paracetamol,4313
+2024-06-16,Cough Syrup,3734
+2024-06-16,Vitamins,3002
+2024-06-16,Antibiotics,4693
+2024-06-16,Pain Relief Gel,3422
+2024-06-17,Paracetamol,5352
+2024-06-17,Cough Syrup,4563
+2024-06-17,Vitamins,3549
+2024-06-17,Antibiotics,6227
+2024-06-17,Pain Relief Gel,3937
+2024-06-18,Paracetamol,5078
+2024-06-18,Cough Syrup,4434
+2024-06-18,Vitamins,3504
+2024-06-18,Antibiotics,5516
+2024-06-18,Pain Relief Gel,3806
+2024-06-19,Paracetamol,5400
+2024-06-19,Cough Syrup,4619
+2024-06-19,Vitamins,3723
+2024-06-19,Antibiotics,5883
+2024-06-19,Pain Relief Gel,3605
+2024-06-20,Paracetamol,5137
+2024-06-20,Cough Syrup,4617
+2024-06-20,Vitamins,3477
+2024-06-20,Antibiotics,5597
+2024-06-20,Pain Relief Gel,3735
+2024-06-21,Paracetamol,4769
+2024-06-21,Cough Syrup,4484
+2024-06-21,Vitamins,3746
+2024-06-21,Antibiotics,5558
+2024-06-21,Pain Relief Gel,3486
+2024-06-22,Paracetamol,4249
+2024-06-22,Cough Syrup,3534
+2024-06-22,Vitamins,2873
+2024-06-22,Antibiotics,4635
+2024-06-22,Pain Relief Gel,3227
+2024-06-23,Paracetamol,4172
+2024-06-23,Cough Syrup,3939
+2024-06-23,Vitamins,3086
+2024-06-23,Antibiotics,4987
+2024-06-23,Pain Relief Gel,3285
+2024-06-24,Paracetamol,4955
+2024-06-24,Cough Syrup,4250
+2024-06-24,Vitamins,3553
+2024-06-24,Antibiotics,5750
+2024-06-24,Pain Relief Gel,3823
+2024-06-25,Paracetamol,4951
+2024-06-25,Cough Syrup,4353
+2024-06-25,Vitamins,3139
+2024-06-25,Antibiotics,5612
+2024-06-25,Pain Relief Gel,3501
+2024-06-26,Paracetamol,4998
+2024-06-26,Cough Syrup,4072
+2024-06-26,Vitamins,3428
+2024-06-26,Antibiotics,5556
+2024-06-26,Pain Relief Gel,3625
+2024-06-27,Paracetamol,4709
+2024-06-27,Cough Syrup,4525
+2024-06-27,Vitamins,3522
+2024-06-27,Antibiotics,5420
+2024-06-27,Pain Relief Gel,3568
+2024-06-28,Paracetamol,5040
+2024-06-28,Cough Syrup,4398
+2024-06-28,Vitamins,3316
+2024-06-28,Antibiotics,5222
+2024-06-28,Pain Relief Gel,3627
+2024-06-29,Paracetamol,4222
+2024-06-29,Cough Syrup,3805
+2024-06-29,Vitamins,3130
+2024-06-29,Antibiotics,4885
+2024-06-29,Pain Relief Gel,3319
+2024-06-30,Paracetamol,4235
+2024-06-30,Cough Syrup,3747
+2024-06-30,Vitamins,2996
+2024-06-30,Antibiotics,4728
+2024-06-30,Pain Relief Gel,3257
+2024-07-01,Paracetamol,4673
+2024-07-01,Cough Syrup,4152
+2024-07-01,Vitamins,3295
+2024-07-01,Antibiotics,5423
+2024-07-01,Pain Relief Gel,3436
+2024-07-02,Paracetamol,4710
+2024-07-02,Cough Syrup,4247
+2024-07-02,Vitamins,3359
+2024-07-02,Antibiotics,5303
+2024-07-02,Pain Relief Gel,3751
+2024-07-03,Paracetamol,4808
+2024-07-03,Cough Syrup,4242
+2024-07-03,Vitamins,3166
+2024-07-03,Antibiotics,5583
+2024-07-03,Pain Relief Gel,3545
+2024-07-04,Paracetamol,4873
+2024-07-04,Cough Syrup,4360
+2024-07-04,Vitamins,3267
+2024-07-04,Antibiotics,5533
+2024-07-04,Pain Relief Gel,3359
+2024-07-05,Paracetamol,4985
+2024-07-05,Cough Syrup,4439
+2024-07-05,Vitamins,3382
+2024-07-05,Antibiotics,5602
+2024-07-05,Pain Relief Gel,3678
+2024-07-06,Paracetamol,4059
+2024-07-06,Cough Syrup,3369
+2024-07-06,Vitamins,2854
+2024-07-06,Antibiotics,4334
+2024-07-06,Pain Relief Gel,2921
+2024-07-07,Paracetamol,4124
+2024-07-07,Cough Syrup,3467
+2024-07-07,Vitamins,2723
+2024-07-07,Antibiotics,4671
+2024-07-07,Pain Relief Gel,3120
+2024-07-08,Paracetamol,4982
+2024-07-08,Cough Syrup,3842
+2024-07-08,Vitamins,2998
+2024-07-08,Antibiotics,5277
+2024-07-08,Pain Relief Gel,3459
+2024-07-09,Paracetamol,4560
+2024-07-09,Cough Syrup,3954
+2024-07-09,Vitamins,3134
+2024-07-09,Antibiotics,5179
+2024-07-09,Pain Relief Gel,3666
+2024-07-10,Paracetamol,4686
+2024-07-10,Cough Syrup,3918
+2024-07-10,Vitamins,3418
+2024-07-10,Antibiotics,5218
+2024-07-10,Pain Relief Gel,3572
+2024-07-11,Paracetamol,4701
+2024-07-11,Cough Syrup,4346
+2024-07-11,Vitamins,3199
+2024-07-11,Antibiotics,5207
+2024-07-11,Pain Relief Gel,3527
+2024-07-12,Paracetamol,4570
+2024-07-12,Cough Syrup,3860
+2024-07-12,Vitamins,3465
+2024-07-12,Antibiotics,5327
+2024-07-12,Pain Relief Gel,3520
+2024-07-13,Paracetamol,3674
+2024-07-13,Cough Syrup,3544
+2024-07-13,Vitamins,2750
+2024-07-13,Antibiotics,4569
+2024-07-13,Pain Relief Gel,3191
+2024-07-14,Paracetamol,3973
+2024-07-14,Cough Syrup,3551
+2024-07-14,Vitamins,2793
+2024-07-14,Antibiotics,4245
+2024-07-14,Pain Relief Gel,2991
+2024-07-15,Paracetamol,4412
+2024-07-15,Cough Syrup,3969
+2024-07-15,Vitamins,3209
+2024-07-15,Antibiotics,5165
+2024-07-15,Pain Relief Gel,3332
+2024-07-16,Paracetamol,4613
+2024-07-16,Cough Syrup,4111
+2024-07-16,Vitamins,3186
+2024-07-16,Antibiotics,5096
+2024-07-16,Pain Relief Gel,3404
+2024-07-17,Paracetamol,4484
+2024-07-17,Cough Syrup,3933
+2024-07-17,Vitamins,3184
+2024-07-17,Antibiotics,5188
+2024-07-17,Pain Relief Gel,3244
+2024-07-18,Paracetamol,4597
+2024-07-18,Cough Syrup,4218
+2024-07-18,Vitamins,3164
+2024-07-18,Antibiotics,5257
+2024-07-18,Pain Relief Gel,3585
+2024-07-19,Paracetamol,4560
+2024-07-19,Cough Syrup,3987
+2024-07-19,Vitamins,3115
+2024-07-19,Antibiotics,4696
+2024-07-19,Pain Relief Gel,3415
+2024-07-20,Paracetamol,3702
+2024-07-20,Cough Syrup,3464
+2024-07-20,Vitamins,2856
+2024-07-20,Antibiotics,4502
+2024-07-20,Pain Relief Gel,2953
+2024-07-21,Paracetamol,3704
+2024-07-21,Cough Syrup,3300
+2024-07-21,Vitamins,2785
+2024-07-21,Antibiotics,4215
+2024-07-21,Pain Relief Gel,2690
+2024-07-22,Paracetamol,4087
+2024-07-22,Cough Syrup,4051
+2024-07-22,Vitamins,2996
+2024-07-22,Antibiotics,5196
+2024-07-22,Pain Relief Gel,3451
+2024-07-23,Paracetamol,4572
+2024-07-23,Cough Syrup,3717
+2024-07-23,Vitamins,3259
+2024-07-23,Antibiotics,4839
+2024-07-23,Pain Relief Gel,3520
+2024-07-24,Paracetamol,4557
+2024-07-24,Cough Syrup,3855
+2024-07-24,Vitamins,2986
+2024-07-24,Antibiotics,4944
+2024-07-24,Pain Relief Gel,3348
+2024-07-25,Paracetamol,4422
+2024-07-25,Cough Syrup,3792
+2024-07-25,Vitamins,3035
+2024-07-25,Antibiotics,5106
+2024-07-25,Pain Relief Gel,3202
+2024-07-26,Paracetamol,4613
+2024-07-26,Cough Syrup,3850
+2024-07-26,Vitamins,3193
+2024-07-26,Antibiotics,5210
+2024-07-26,Pain Relief Gel,3293
+2024-07-27,Paracetamol,4036
+2024-07-27,Cough Syrup,3371
+2024-07-27,Vitamins,2573
+2024-07-27,Antibiotics,4179
+2024-07-27,Pain Relief Gel,2747
+2024-07-28,Paracetamol,3701
+2024-07-28,Cough Syrup,3315
+2024-07-28,Vitamins,2654
+2024-07-28,Antibiotics,4097
+2024-07-28,Pain Relief Gel,3067
+2024-07-29,Paracetamol,4199
+2024-07-29,Cough Syrup,3674
+2024-07-29,Vitamins,2934
+2024-07-29,Antibiotics,4635
+2024-07-29,Pain Relief Gel,3168
+2024-07-30,Paracetamol,4357
+2024-07-30,Cough Syrup,3767
+2024-07-30,Vitamins,2980
+2024-07-30,Antibiotics,4833
+2024-07-30,Pain Relief Gel,3301
+2024-07-31,Paracetamol,4392
+2024-07-31,Cough Syrup,3395
+2024-07-31,Vitamins,2928
+2024-07-31,Antibiotics,4774
+2024-07-31,Pain Relief Gel,3051
+2024-08-01,Paracetamol,4206
+2024-08-01,Cough Syrup,3878
+2024-08-01,Vitamins,2878
+2024-08-01,Antibiotics,4723
+2024-08-01,Pain Relief Gel,3033
+2024-08-02,Paracetamol,3915
+2024-08-02,Cough Syrup,4020
+2024-08-02,Vitamins,2780
+2024-08-02,Antibiotics,4361
+2024-08-02,Pain Relief Gel,3241
+2024-08-03,Paracetamol,3829
+2024-08-03,Cough Syrup,3041
+2024-08-03,Vitamins,2640
+2024-08-03,Antibiotics,3982
+2024-08-03,Pain Relief Gel,2925
+2024-08-04,Paracetamol,3568
+2024-08-04,Cough Syrup,3226
+2024-08-04,Vitamins,2671
+2024-08-04,Antibiotics,3966
+2024-08-04,Pain Relief Gel,2809
+2024-08-05,Paracetamol,4353
+2024-08-05,Cough Syrup,3837
+2024-08-05,Vitamins,2825
+2024-08-05,Antibiotics,4842
+2024-08-05,Pain Relief Gel,3100
+2024-08-06,Paracetamol,4271
+2024-08-06,Cough Syrup,3567
+2024-08-06,Vitamins,3056
+2024-08-06,Antibiotics,4739
+2024-08-06,Pain Relief Gel,3282
+2024-08-07,Paracetamol,4380
+2024-08-07,Cough Syrup,3574
+2024-08-07,Vitamins,2942
+2024-08-07,Antibiotics,4571
+2024-08-07,Pain Relief Gel,3116
+2024-08-08,Paracetamol,4153
+2024-08-08,Cough Syrup,3535
+2024-08-08,Vitamins,3005
+2024-08-08,Antibiotics,4721
+2024-08-08,Pain Relief Gel,3031
+2024-08-09,Paracetamol,4161
+2024-08-09,Cough Syrup,3643
+2024-08-09,Vitamins,2877
+2024-08-09,Antibiotics,4997
+2024-08-09,Pain Relief Gel,3100
+2024-08-10,Paracetamol,3446
+2024-08-10,Cough Syrup,3020
+2024-08-10,Vitamins,2639
+2024-08-10,Antibiotics,4128
+2024-08-10,Pain Relief Gel,2700
+2024-08-11,Paracetamol,3551
+2024-08-11,Cough Syrup,3058
+2024-08-11,Vitamins,2619
+2024-08-11,Antibiotics,3911
+2024-08-11,Pain Relief Gel,2616
+2024-08-12,Paracetamol,4056
+2024-08-12,Cough Syrup,3598
+2024-08-12,Vitamins,2857
+2024-08-12,Antibiotics,4528
+2024-08-12,Pain Relief Gel,3020
+2024-08-13,Paracetamol,4189
+2024-08-13,Cough Syrup,3396
+2024-08-13,Vitamins,2976
+2024-08-13,Antibiotics,4518
+2024-08-13,Pain Relief Gel,3072
+2024-08-14,Paracetamol,4169
+2024-08-14,Cough Syrup,3585
+2024-08-14,Vitamins,2683
+2024-08-14,Antibiotics,4408
+2024-08-14,Pain Relief Gel,3145
+2024-08-15,Paracetamol,4268
+2024-08-15,Cough Syrup,3440
+2024-08-15,Vitamins,2996
+2024-08-15,Antibiotics,4642
+2024-08-15,Pain Relief Gel,3244
+2024-08-16,Paracetamol,4223
+2024-08-16,Cough Syrup,3526
+2024-08-16,Vitamins,2758
+2024-08-16,Antibiotics,4578
+2024-08-16,Pain Relief Gel,3138
+2024-08-17,Paracetamol,3481
+2024-08-17,Cough Syrup,3019
+2024-08-17,Vitamins,2505
+2024-08-17,Antibiotics,4195
+2024-08-17,Pain Relief Gel,2712
+2024-08-18,Paracetamol,3626
+2024-08-18,Cough Syrup,3136
+2024-08-18,Vitamins,2465
+2024-08-18,Antibiotics,4080
+2024-08-18,Pain Relief Gel,2371
+2024-08-19,Paracetamol,4099
+2024-08-19,Cough Syrup,3554
+2024-08-19,Vitamins,2874
+2024-08-19,Antibiotics,4629
+2024-08-19,Pain Relief Gel,3134
+2024-08-20,Paracetamol,4016
+2024-08-20,Cough Syrup,3419
+2024-08-20,Vitamins,2777
+2024-08-20,Antibiotics,4681
+2024-08-20,Pain Relief Gel,2954
+2024-08-21,Paracetamol,4151
+2024-08-21,Cough Syrup,3577
+2024-08-21,Vitamins,2767
+2024-08-21,Antibiotics,4557
+2024-08-21,Pain Relief Gel,2943
+2024-08-22,Paracetamol,4003
+2024-08-22,Cough Syrup,3400
+2024-08-22,Vitamins,2784
+2024-08-22,Antibiotics,4595
+2024-08-22,Pain Relief Gel,2844
+2024-08-23,Paracetamol,4162
+2024-08-23,Cough Syrup,3359
+2024-08-23,Vitamins,2965
+2024-08-23,Antibiotics,4291
+2024-08-23,Pain Relief Gel,3028
+2024-08-24,Paracetamol,3648
+2024-08-24,Cough Syrup,3080
+2024-08-24,Vitamins,2415
+2024-08-24,Antibiotics,3879
+2024-08-24,Pain Relief Gel,2588
+2024-08-25,Paracetamol,3581
+2024-08-25,Cough Syrup,3001
+2024-08-25,Vitamins,2365
+2024-08-25,Antibiotics,3566
+2024-08-25,Pain Relief Gel,2487
+2024-08-26,Paracetamol,3849
+2024-08-26,Cough Syrup,3563
+2024-08-26,Vitamins,2986
+2024-08-26,Antibiotics,4302
+2024-08-26,Pain Relief Gel,3117
+2024-08-27,Paracetamol,3855
+2024-08-27,Cough Syrup,3638
+2024-08-27,Vitamins,2723
+2024-08-27,Antibiotics,4645
+2024-08-27,Pain Relief Gel,2839
+2024-08-28,Paracetamol,3973
+2024-08-28,Cough Syrup,3553
+2024-08-28,Vitamins,2747
+2024-08-28,Antibiotics,4224
+2024-08-28,Pain Relief Gel,2936
+2024-08-29,Paracetamol,4074
+2024-08-29,Cough Syrup,3406
+2024-08-29,Vitamins,2776
+2024-08-29,Antibiotics,4044
+2024-08-29,Pain Relief Gel,2912
+2024-08-30,Paracetamol,3915
+2024-08-30,Cough Syrup,3502
+2024-08-30,Vitamins,2594
+2024-08-30,Antibiotics,4417
+2024-08-30,Pain Relief Gel,3181
+2024-08-31,Paracetamol,3215
+2024-08-31,Cough Syrup,2918
+2024-08-31,Vitamins,2430
+2024-08-31,Antibiotics,3670
+2024-08-31,Pain Relief Gel,2499
+2024-09-01,Paracetamol,3235
+2024-09-01,Cough Syrup,3017
+2024-09-01,Vitamins,2458
+2024-09-01,Antibiotics,3671
+2024-09-01,Pain Relief Gel,2590
+2024-09-02,Paracetamol,4202
+2024-09-02,Cough Syrup,3365
+2024-09-02,Vitamins,2806
+2024-09-02,Antibiotics,4407
+2024-09-02,Pain Relief Gel,3050
+2024-09-03,Paracetamol,3753
+2024-09-03,Cough Syrup,3637
+2024-09-03,Vitamins,2752
+2024-09-03,Antibiotics,4093
+2024-09-03,Pain Relief Gel,2914
+2024-09-04,Paracetamol,3798
+2024-09-04,Cough Syrup,3414
+2024-09-04,Vitamins,2661
+2024-09-04,Antibiotics,4276
+2024-09-04,Pain Relief Gel,2914
+2024-09-05,Paracetamol,3845
+2024-09-05,Cough Syrup,3673
+2024-09-05,Vitamins,2877
+2024-09-05,Antibiotics,4303
+2024-09-05,Pain Relief Gel,2843
+2024-09-06,Paracetamol,3847
+2024-09-06,Cough Syrup,3539
+2024-09-06,Vitamins,2747
+2024-09-06,Antibiotics,4223
+2024-09-06,Pain Relief Gel,2800
+2024-09-07,Paracetamol,3291
+2024-09-07,Cough Syrup,2751
+2024-09-07,Vitamins,2326
+2024-09-07,Antibiotics,3728
+2024-09-07,Pain Relief Gel,2438
+2024-09-08,Paracetamol,3410
+2024-09-08,Cough Syrup,2983
+2024-09-08,Vitamins,2319
+2024-09-08,Antibiotics,3840
+2024-09-08,Pain Relief Gel,2613
+2024-09-09,Paracetamol,3688
+2024-09-09,Cough Syrup,3168
+2024-09-09,Vitamins,2667
+2024-09-09,Antibiotics,4204
+2024-09-09,Pain Relief Gel,2519
+2024-09-10,Paracetamol,3960
+2024-09-10,Cough Syrup,3156
+2024-09-10,Vitamins,2875
+2024-09-10,Antibiotics,4332
+2024-09-10,Pain Relief Gel,2838
+2024-09-11,Paracetamol,3658
+2024-09-11,Cough Syrup,3301
+2024-09-11,Vitamins,2849
+2024-09-11,Antibiotics,4370
+2024-09-11,Pain Relief Gel,2737
+2024-09-12,Paracetamol,3949
+2024-09-12,Cough Syrup,3113
+2024-09-12,Vitamins,2777
+2024-09-12,Antibiotics,4281
+2024-09-12,Pain Relief Gel,2806
+2024-09-13,Paracetamol,3880
+2024-09-13,Cough Syrup,3532
+2024-09-13,Vitamins,2659
+2024-09-13,Antibiotics,3946
+2024-09-13,Pain Relief Gel,2875
+2024-09-14,Paracetamol,3466
+2024-09-14,Cough Syrup,2780
+2024-09-14,Vitamins,2277
+2024-09-14,Antibiotics,3720
+2024-09-14,Pain Relief Gel,2416
+2024-09-15,Paracetamol,3336
+2024-09-15,Cough Syrup,2929
+2024-09-15,Vitamins,2371
+2024-09-15,Antibiotics,3485
+2024-09-15,Pain Relief Gel,2504
+2024-09-16,Paracetamol,4001
+2024-09-16,Cough Syrup,3088
+2024-09-16,Vitamins,2664
+2024-09-16,Antibiotics,4393
+2024-09-16,Pain Relief Gel,2920
+2024-09-17,Paracetamol,3695
+2024-09-17,Cough Syrup,3421
+2024-09-17,Vitamins,2686
+2024-09-17,Antibiotics,4489
+2024-09-17,Pain Relief Gel,2830
+2024-09-18,Paracetamol,3621
+2024-09-18,Cough Syrup,3508
+2024-09-18,Vitamins,2670
+2024-09-18,Antibiotics,4531
+2024-09-18,Pain Relief Gel,2945
+2024-09-19,Paracetamol,3836
+2024-09-19,Cough Syrup,3329
+2024-09-19,Vitamins,2586
+2024-09-19,Antibiotics,4244
+2024-09-19,Pain Relief Gel,2742
+2024-09-20,Paracetamol,3869
+2024-09-20,Cough Syrup,3435
+2024-09-20,Vitamins,2672
+2024-09-20,Antibiotics,4314
+2024-09-20,Pain Relief Gel,2995
+2024-09-21,Paracetamol,3265
+2024-09-21,Cough Syrup,2884
+2024-09-21,Vitamins,2215
+2024-09-21,Antibiotics,3731
+2024-09-21,Pain Relief Gel,2551
+2024-09-22,Paracetamol,3325
+2024-09-22,Cough Syrup,2881
+2024-09-22,Vitamins,2292
+2024-09-22,Antibiotics,3696
+2024-09-22,Pain Relief Gel,2292
+2024-09-23,Paracetamol,3680
+2024-09-23,Cough Syrup,3131
+2024-09-23,Vitamins,2479
+2024-09-23,Antibiotics,4463
+2024-09-23,Pain Relief Gel,2717
+2024-09-24,Paracetamol,4037
+2024-09-24,Cough Syrup,3460
+2024-09-24,Vitamins,2778
+2024-09-24,Antibiotics,4556
+2024-09-24,Pain Relief Gel,2802
+2024-09-25,Paracetamol,3537
+2024-09-25,Cough Syrup,3232
+2024-09-25,Vitamins,2707
+2024-09-25,Antibiotics,4500
+2024-09-25,Pain Relief Gel,3055
+2024-09-26,Paracetamol,3898
+2024-09-26,Cough Syrup,3317
+2024-09-26,Vitamins,2837
+2024-09-26,Antibiotics,4596
+2024-09-26,Pain Relief Gel,2938
+2024-09-27,Paracetamol,3469
+2024-09-27,Cough Syrup,3513
+2024-09-27,Vitamins,2925
+2024-09-27,Antibiotics,4777
+2024-09-27,Pain Relief Gel,2741
+2024-09-28,Paracetamol,3441
+2024-09-28,Cough Syrup,2744
+2024-09-28,Vitamins,2266
+2024-09-28,Antibiotics,3804
+2024-09-28,Pain Relief Gel,2254
+2024-09-29,Paracetamol,3000
+2024-09-29,Cough Syrup,3134
+2024-09-29,Vitamins,2440
+2024-09-29,Antibiotics,3824
+2024-09-29,Pain Relief Gel,2303
+2024-09-30,Paracetamol,3716
+2024-09-30,Cough Syrup,3412
+2024-09-30,Vitamins,2628
+2024-09-30,Antibiotics,4396
+2024-09-30,Pain Relief Gel,3051
+2024-10-01,Paracetamol,3822
+2024-10-01,Cough Syrup,3362
+2024-10-01,Vitamins,2404
+2024-10-01,Antibiotics,4121
+2024-10-01,Pain Relief Gel,2952
+2024-10-02,Paracetamol,3589
+2024-10-02,Cough Syrup,3470
+2024-10-02,Vitamins,2708
+2024-10-02,Antibiotics,4352
+2024-10-02,Pain Relief Gel,2774
+2024-10-03,Paracetamol,4062
+2024-10-03,Cough Syrup,3302
+2024-10-03,Vitamins,2622
+2024-10-03,Antibiotics,4251
+2024-10-03,Pain Relief Gel,2760
+2024-10-04,Paracetamol,3736
+2024-10-04,Cough Syrup,3349
+2024-10-04,Vitamins,2547
+2024-10-04,Antibiotics,4484
+2024-10-04,Pain Relief Gel,2710
+2024-10-05,Paracetamol,3169
+2024-10-05,Cough Syrup,2812
+2024-10-05,Vitamins,2514
+2024-10-05,Antibiotics,3612
+2024-10-05,Pain Relief Gel,2543
+2024-10-06,Paracetamol,3258
+2024-10-06,Cough Syrup,2642
+2024-10-06,Vitamins,2202
+2024-10-06,Antibiotics,3770
+2024-10-06,Pain Relief Gel,2424
+2024-10-07,Paracetamol,3800
+2024-10-07,Cough Syrup,3447
+2024-10-07,Vitamins,2728
+2024-10-07,Antibiotics,4420
+2024-10-07,Pain Relief Gel,3027
+2024-10-08,Paracetamol,3904
+2024-10-08,Cough Syrup,3611
+2024-10-08,Vitamins,2498
+2024-10-08,Antibiotics,4474
+2024-10-08,Pain Relief Gel,2873
+2024-10-09,Paracetamol,3800
+2024-10-09,Cough Syrup,3275
+2024-10-09,Vitamins,2749
+2024-10-09,Antibiotics,4381
+2024-10-09,Pain Relief Gel,3007
+2024-10-10,Paracetamol,4200
+2024-10-10,Cough Syrup,3334
+2024-10-10,Vitamins,2717
+2024-10-10,Antibiotics,4299
+2024-10-10,Pain Relief Gel,3102
+2024-10-11,Paracetamol,3989
+2024-10-11,Cough Syrup,3174
+2024-10-11,Vitamins,2706
+2024-10-11,Antibiotics,4073
+2024-10-11,Pain Relief Gel,2831
+2024-10-12,Paracetamol,3407
+2024-10-12,Cough Syrup,2869
+2024-10-12,Vitamins,2301
+2024-10-12,Antibiotics,3740
+2024-10-12,Pain Relief Gel,2506
+2024-10-13,Paracetamol,3455
+2024-10-13,Cough Syrup,2856
+2024-10-13,Vitamins,2440
+2024-10-13,Antibiotics,3677
+2024-10-13,Pain Relief Gel,2320
+2024-10-14,Paracetamol,3695
+2024-10-14,Cough Syrup,3311
+2024-10-14,Vitamins,2906
+2024-10-14,Antibiotics,3918
+2024-10-14,Pain Relief Gel,2749
+2024-10-15,Paracetamol,3599
+2024-10-15,Cough Syrup,3638
+2024-10-15,Vitamins,2616
+2024-10-15,Antibiotics,4397
+2024-10-15,Pain Relief Gel,2834
+2024-10-16,Paracetamol,3624
+2024-10-16,Cough Syrup,3368
+2024-10-16,Vitamins,2717
+2024-10-16,Antibiotics,3890
+2024-10-16,Pain Relief Gel,2967
+2024-10-17,Paracetamol,3882
+2024-10-17,Cough Syrup,3468
+2024-10-17,Vitamins,2645
+2024-10-17,Antibiotics,4516
+2024-10-17,Pain Relief Gel,2928
+2024-10-18,Paracetamol,3892
+2024-10-18,Cough Syrup,3482
+2024-10-18,Vitamins,2760
+2024-10-18,Antibiotics,4356
+2024-10-18,Pain Relief Gel,2766
+2024-10-19,Paracetamol,3517
+2024-10-19,Cough Syrup,2775
+2024-10-19,Vitamins,2317
+2024-10-19,Antibiotics,3595
+2024-10-19,Pain Relief Gel,2468
+2024-10-20,Paracetamol,3282
+2024-10-20,Cough Syrup,2833
+2024-10-20,Vitamins,2476
+2024-10-20,Antibiotics,3819
+2024-10-20,Pain Relief Gel,2516
+2024-10-21,Paracetamol,3873
+2024-10-21,Cough Syrup,3431
+2024-10-21,Vitamins,2844
+2024-10-21,Antibiotics,4072
+2024-10-21,Pain Relief Gel,2927
+2024-10-22,Paracetamol,3708
+2024-10-22,Cough Syrup,3646
+2024-10-22,Vitamins,2806
+2024-10-22,Antibiotics,4544
+2024-10-22,Pain Relief Gel,2996
+2024-10-23,Paracetamol,3990
+2024-10-23,Cough Syrup,3034
+2024-10-23,Vitamins,2683
+2024-10-23,Antibiotics,4674
+2024-10-23,Pain Relief Gel,2919
+2024-10-24,Paracetamol,3792
+2024-10-24,Cough Syrup,3494
+2024-10-24,Vitamins,2502
+2024-10-24,Antibiotics,4258
+2024-10-24,Pain Relief Gel,3183
+2024-10-25,Paracetamol,4113
+2024-10-25,Cough Syrup,3655
+2024-10-25,Vitamins,2865
+2024-10-25,Antibiotics,4329
+2024-10-25,Pain Relief Gel,3131
+2024-10-26,Paracetamol,3583
+2024-10-26,Cough Syrup,3081
+2024-10-26,Vitamins,2488
+2024-10-26,Antibiotics,3790
+2024-10-26,Pain Relief Gel,2550
+2024-10-27,Paracetamol,3376
+2024-10-27,Cough Syrup,2978
+2024-10-27,Vitamins,2460
+2024-10-27,Antibiotics,3769
+2024-10-27,Pain Relief Gel,2458
+2024-10-28,Paracetamol,3941
+2024-10-28,Cough Syrup,3532
+2024-10-28,Vitamins,3045
+2024-10-28,Antibiotics,4544
+2024-10-28,Pain Relief Gel,2989
+2024-10-29,Paracetamol,4133
+2024-10-29,Cough Syrup,3946
+2024-10-29,Vitamins,2700
+2024-10-29,Antibiotics,4358
+2024-10-29,Pain Relief Gel,2983
+2024-10-30,Paracetamol,4429
+2024-10-30,Cough Syrup,3292
+2024-10-30,Vitamins,2634
+2024-10-30,Antibiotics,4180
+2024-10-30,Pain Relief Gel,2875
+2024-10-31,Paracetamol,3936
+2024-10-31,Cough Syrup,3510
+2024-10-31,Vitamins,2831
+2024-10-31,Antibiotics,4576
+2024-10-31,Pain Relief Gel,2968
+2024-11-01,Paracetamol,4137
+2024-11-01,Cough Syrup,3296
+2024-11-01,Vitamins,2855
+2024-11-01,Antibiotics,4611
+2024-11-01,Pain Relief Gel,3029
+2024-11-02,Paracetamol,3505
+2024-11-02,Cough Syrup,3151
+2024-11-02,Vitamins,2393
+2024-11-02,Antibiotics,3920
+2024-11-02,Pain Relief Gel,2734
+2024-11-03,Paracetamol,3690
+2024-11-03,Cough Syrup,3021
+2024-11-03,Vitamins,2336
+2024-11-03,Antibiotics,3970
+2024-11-03,Pain Relief Gel,2759
+2024-11-04,Paracetamol,4113
+2024-11-04,Cough Syrup,3708
+2024-11-04,Vitamins,2842
+2024-11-04,Antibiotics,4796
+2024-11-04,Pain Relief Gel,3171
+2024-11-05,Paracetamol,4000
+2024-11-05,Cough Syrup,3446
+2024-11-05,Vitamins,3083
+2024-11-05,Antibiotics,4949
+2024-11-05,Pain Relief Gel,3169
+2024-11-06,Paracetamol,4284
+2024-11-06,Cough Syrup,3644
+2024-11-06,Vitamins,2700
+2024-11-06,Antibiotics,4669
+2024-11-06,Pain Relief Gel,3131
+2024-11-07,Paracetamol,3980
+2024-11-07,Cough Syrup,3795
+2024-11-07,Vitamins,2739
+2024-11-07,Antibiotics,4813
+2024-11-07,Pain Relief Gel,3038
+2024-11-08,Paracetamol,4097
+2024-11-08,Cough Syrup,3633
+2024-11-08,Vitamins,2949
+2024-11-08,Antibiotics,4861
+2024-11-08,Pain Relief Gel,3280
+2024-11-09,Paracetamol,3673
+2024-11-09,Cough Syrup,3301
+2024-11-09,Vitamins,2465
+2024-11-09,Antibiotics,4077
+2024-11-09,Pain Relief Gel,2523
+2024-11-10,Paracetamol,3784
+2024-11-10,Cough Syrup,2991
+2024-11-10,Vitamins,2428
+2024-11-10,Antibiotics,4207
+2024-11-10,Pain Relief Gel,2723
+2024-11-11,Paracetamol,4064
+2024-11-11,Cough Syrup,3686
+2024-11-11,Vitamins,2773
+2024-11-11,Antibiotics,4552
+2024-11-11,Pain Relief Gel,2954
+2024-11-12,Paracetamol,4134
+2024-11-12,Cough Syrup,3690
+2024-11-12,Vitamins,3116
+2024-11-12,Antibiotics,4826
+2024-11-12,Pain Relief Gel,3170
+2024-11-13,Paracetamol,4551
+2024-11-13,Cough Syrup,3567
+2024-11-13,Vitamins,2941
+2024-11-13,Antibiotics,4651
+2024-11-13,Pain Relief Gel,3229
+2024-11-14,Paracetamol,4198
+2024-11-14,Cough Syrup,3725
+2024-11-14,Vitamins,3014
+2024-11-14,Antibiotics,4596
+2024-11-14,Pain Relief Gel,3198
+2024-11-15,Paracetamol,4135
+2024-11-15,Cough Syrup,3707
+2024-11-15,Vitamins,2879
+2024-11-15,Antibiotics,4660
+2024-11-15,Pain Relief Gel,2993
+2024-11-16,Paracetamol,3710
+2024-11-16,Cough Syrup,3164
+2024-11-16,Vitamins,2453
+2024-11-16,Antibiotics,4266
+2024-11-16,Pain Relief Gel,2755
+2024-11-17,Paracetamol,3670
+2024-11-17,Cough Syrup,3183
+2024-11-17,Vitamins,2758
+2024-11-17,Antibiotics,4187
+2024-11-17,Pain Relief Gel,2881
+2024-11-18,Paracetamol,4492
+2024-11-18,Cough Syrup,3831
+2024-11-18,Vitamins,2968
+2024-11-18,Antibiotics,4646
+2024-11-18,Pain Relief Gel,3338
+2024-11-19,Paracetamol,4223
+2024-11-19,Cough Syrup,3450
+2024-11-19,Vitamins,3012
+2024-11-19,Antibiotics,4713
+2024-11-19,Pain Relief Gel,3073
+2024-11-20,Paracetamol,4326
+2024-11-20,Cough Syrup,3818
+2024-11-20,Vitamins,3003
+2024-11-20,Antibiotics,5175
+2024-11-20,Pain Relief Gel,3153
+2024-11-21,Paracetamol,4264
+2024-11-21,Cough Syrup,3814
+2024-11-21,Vitamins,3235
+2024-11-21,Antibiotics,4617
+2024-11-21,Pain Relief Gel,3374
+2024-11-22,Paracetamol,4564
+2024-11-22,Cough Syrup,3984
+2024-11-22,Vitamins,3142
+2024-11-22,Antibiotics,5031
+2024-11-22,Pain Relief Gel,3602
+2024-11-23,Paracetamol,3707
+2024-11-23,Cough Syrup,3396
+2024-11-23,Vitamins,2595
+2024-11-23,Antibiotics,4147
+2024-11-23,Pain Relief Gel,2763
+2024-11-24,Paracetamol,4108
+2024-11-24,Cough Syrup,3269
+2024-11-24,Vitamins,2775
+2024-11-24,Antibiotics,4184
+2024-11-24,Pain Relief Gel,2906
+2024-11-25,Paracetamol,4491
+2024-11-25,Cough Syrup,3774
+2024-11-25,Vitamins,3109
+2024-11-25,Antibiotics,4998
+2024-11-25,Pain Relief Gel,3543
+2024-11-26,Paracetamol,4382
+2024-11-26,Cough Syrup,3909
+2024-11-26,Vitamins,3211
+2024-11-26,Antibiotics,4831
+2024-11-26,Pain Relief Gel,3571
+2024-11-27,Paracetamol,4679
+2024-11-27,Cough Syrup,3805
+2024-11-27,Vitamins,3323
+2024-11-27,Antibiotics,4920
+2024-11-27,Pain Relief Gel,3542
+2024-11-28,Paracetamol,4757
+2024-11-28,Cough Syrup,4024
+2024-11-28,Vitamins,3102
+2024-11-28,Antibiotics,5279
+2024-11-28,Pain Relief Gel,3497
+2024-11-29,Paracetamol,4409
+2024-11-29,Cough Syrup,3918
+2024-11-29,Vitamins,2943
+2024-11-29,Antibiotics,4970
+2024-11-29,Pain Relief Gel,3584
+2024-11-30,Paracetamol,3972
+2024-11-30,Cough Syrup,3480
+2024-11-30,Vitamins,2650
+2024-11-30,Antibiotics,4795
+2024-11-30,Pain Relief Gel,3102
+2024-12-01,Paracetamol,4156
+2024-12-01,Cough Syrup,3726
+2024-12-01,Vitamins,2837
+2024-12-01,Antibiotics,4413
+2024-12-01,Pain Relief Gel,3142
+2024-12-02,Paracetamol,4563
+2024-12-02,Cough Syrup,3994
+2024-12-02,Vitamins,3474
+2024-12-02,Antibiotics,4963
+2024-12-02,Pain Relief Gel,3383
+2024-12-03,Paracetamol,4572
+2024-12-03,Cough Syrup,4010
+2024-12-03,Vitamins,3465
+2024-12-03,Antibiotics,5179
+2024-12-03,Pain Relief Gel,3507
+2024-12-04,Paracetamol,4700
+2024-12-04,Cough Syrup,4005
+2024-12-04,Vitamins,3151
+2024-12-04,Antibiotics,5387
+2024-12-04,Pain Relief Gel,3367
+2024-12-05,Paracetamol,4858
+2024-12-05,Cough Syrup,4089
+2024-12-05,Vitamins,3444
+2024-12-05,Antibiotics,5141
+2024-12-05,Pain Relief Gel,3609
+2024-12-06,Paracetamol,4828
+2024-12-06,Cough Syrup,4068
+2024-12-06,Vitamins,3234
+2024-12-06,Antibiotics,5285
+2024-12-06,Pain Relief Gel,3502
+2024-12-07,Paracetamol,4051
+2024-12-07,Cough Syrup,3374
+2024-12-07,Vitamins,2839
+2024-12-07,Antibiotics,4560
+2024-12-07,Pain Relief Gel,2895
+2024-12-08,Paracetamol,4416
+2024-12-08,Cough Syrup,3749
+2024-12-08,Vitamins,2951
+2024-12-08,Antibiotics,4695
+2024-12-08,Pain Relief Gel,3313
+2024-12-09,Paracetamol,4930
+2024-12-09,Cough Syrup,4175
+2024-12-09,Vitamins,3370
+2024-12-09,Antibiotics,5245
+2024-12-09,Pain Relief Gel,3896
+2024-12-10,Paracetamol,4927
+2024-12-10,Cough Syrup,4067
+2024-12-10,Vitamins,3471
+2024-12-10,Antibiotics,5353
+2024-12-10,Pain Relief Gel,3826
+2024-12-11,Paracetamol,4837
+2024-12-11,Cough Syrup,4411
+2024-12-11,Vitamins,3501
+2024-12-11,Antibiotics,5855
+2024-12-11,Pain Relief Gel,3456
+2024-12-12,Paracetamol,5196
+2024-12-12,Cough Syrup,4231
+2024-12-12,Vitamins,3542
+2024-12-12,Antibiotics,5388
+2024-12-12,Pain Relief Gel,3683
+2024-12-13,Paracetamol,5106
+2024-12-13,Cough Syrup,3970
+2024-12-13,Vitamins,3442
+2024-12-13,Antibiotics,5302
+2024-12-13,Pain Relief Gel,3609
+2024-12-14,Paracetamol,4430
+2024-12-14,Cough Syrup,3711
+2024-12-14,Vitamins,2918
+2024-12-14,Antibiotics,4899
+2024-12-14,Pain Relief Gel,3156
+2024-12-15,Paracetamol,4137
+2024-12-15,Cough Syrup,4195
+2024-12-15,Vitamins,3016
+2024-12-15,Antibiotics,4740
+2024-12-15,Pain Relief Gel,3075
+2024-12-16,Paracetamol,4710
+2024-12-16,Cough Syrup,4277
+2024-12-16,Vitamins,3433
+2024-12-16,Antibiotics,5718
+2024-12-16,Pain Relief Gel,3515
+2024-12-17,Paracetamol,4804
+2024-12-17,Cough Syrup,4425
+2024-12-17,Vitamins,3310
+2024-12-17,Antibiotics,5721
+2024-12-17,Pain Relief Gel,3592
+2024-12-18,Paracetamol,4909
+2024-12-18,Cough Syrup,4356
+2024-12-18,Vitamins,3252
+2024-12-18,Antibiotics,5187
+2024-12-18,Pain Relief Gel,3720
+2024-12-19,Paracetamol,5323
+2024-12-19,Cough Syrup,4122
+2024-12-19,Vitamins,3632
+2024-12-19,Antibiotics,6080
+2024-12-19,Pain Relief Gel,3755
+2024-12-20,Paracetamol,5067
+2024-12-20,Cough Syrup,4632
+2024-12-20,Vitamins,3332
+2024-12-20,Antibiotics,5809
+2024-12-20,Pain Relief Gel,3618
+2024-12-21,Paracetamol,4268
+2024-12-21,Cough Syrup,3710
+2024-12-21,Vitamins,3133
+2024-12-21,Antibiotics,5081
+2024-12-21,Pain Relief Gel,3430
+2024-12-22,Paracetamol,4505
+2024-12-22,Cough Syrup,3892
+2024-12-22,Vitamins,3050
+2024-12-22,Antibiotics,4778
+2024-12-22,Pain Relief Gel,3202
+2024-12-23,Paracetamol,4917
+2024-12-23,Cough Syrup,4619
+2024-12-23,Vitamins,3484
+2024-12-23,Antibiotics,6255
+2024-12-23,Pain Relief Gel,3561
+2024-12-24,Paracetamol,5275
+2024-12-24,Cough Syrup,4415
+2024-12-24,Vitamins,4109
+2024-12-24,Antibiotics,5616
+2024-12-24,Pain Relief Gel,3865
+2024-12-25,Paracetamol,5465
+2024-12-25,Cough Syrup,4259
+2024-12-25,Vitamins,3496
+2024-12-25,Antibiotics,5373
+2024-12-25,Pain Relief Gel,3913
+2024-12-26,Paracetamol,5546
+2024-12-26,Cough Syrup,4512
+2024-12-26,Vitamins,3413
+2024-12-26,Antibiotics,5551
+2024-12-26,Pain Relief Gel,4019
+2024-12-27,Paracetamol,5224
+2024-12-27,Cough Syrup,4577
+2024-12-27,Vitamins,3887
+2024-12-27,Antibiotics,5735
+2024-12-27,Pain Relief Gel,4157
+2024-12-28,Paracetamol,4109
+2024-12-28,Cough Syrup,4194
+2024-12-28,Vitamins,3113
+2024-12-28,Antibiotics,5258
+2024-12-28,Pain Relief Gel,3451
+2024-12-29,Paracetamol,4569
+2024-12-29,Cough Syrup,4020
+2024-12-29,Vitamins,3209
+2024-12-29,Antibiotics,5425
+2024-12-29,Pain Relief Gel,3451
+2024-12-30,Paracetamol,5510
+2024-12-30,Cough Syrup,4640
+2024-12-30,Vitamins,3800
+2024-12-30,Antibiotics,5932
+2024-12-30,Pain Relief Gel,3867
+2024-12-31,Paracetamol,5431
+2024-12-31,Cough Syrup,4811
+2024-12-31,Vitamins,3810
+2024-12-31,Antibiotics,5412
+2024-12-31,Pain Relief Gel,4224

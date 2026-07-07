@@ -1,0 +1,12 @@
+# Ignore python virtual environments
+backend/venv/
+backend/ENV/
+backend/__pycache__/
+backend/uploads/
+
+# Ignore node modules
+frontend/node_modules/
+frontend/dist/
+
+# Ignore local environment variables
+backend/.env
